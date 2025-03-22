@@ -3,6 +3,8 @@ if(POLICY CMP0079)
 	cmake_policy(SET CMP0079 NEW)
 endif()
 
+set(CMAKE_BUILD_TYPE Debug)
+
 set(STREAMER_SOURCES
 	main.cpp
 	dispatchqueue.cpp

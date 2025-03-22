@@ -32,6 +32,7 @@ The CMake build exports the targets with namespace `LibDataChannel::LibDataChann
 ### POSIX-compliant operating systems (including Linux and Apple macOS)
 
 ```bash
+cmake -B build -DUSE_GNUTLS=0 -DUSE_NICE=0 -DCMAKE_BUILD_TYPE=Debug
 $ cmake -B build -DUSE_GNUTLS=0 -DUSE_NICE=0 -DCMAKE_BUILD_TYPE=Release
 $ cd build
 $ make -j2

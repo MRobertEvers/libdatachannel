@@ -175,7 +175,6 @@ int main(int argc, char **argv) try {
             wsOnMessage(message, config, ws);
         });
     });
-
     const string url = "ws://" + ip_address + ":" + to_string(port) + "/" + localId;
     cout << "URL is " << url << endl;
     ws->open(url);
