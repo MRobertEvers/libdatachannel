@@ -13,7 +13,9 @@ $ node examples/signaling-server-nodejs signaling-server.js
 
 ```sh
 $ cd examples/streamer
-$ python3 -m http.server --bind 127.0.0.1 8080
+$ python3 -m http.server --bind 127.0.0.1 8080 
+
+python3 -m http.server --bind 127.0.0.1 8080 --directory examples/streamer
 ```
 
 ## Start the streamer
@@ -21,6 +23,8 @@ $ python3 -m http.server --bind 127.0.0.1 8080
 ```sh
 $ cd build/examples/streamer
 $ ./streamer
+
+
 ```
 Arguments:
 

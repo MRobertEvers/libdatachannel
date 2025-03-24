@@ -1,0 +1,1011 @@
+Sample bytes: 00 00 12 3f 41 9a 60 47 22 d5 ea 92 
+Sample size in hex: 1243, 43120000
+Sending video sample with size: 4675 to 2NeITDGQMr
+Packetizer: 4675
+NALU Size: 4671, 3f120000, 3f120000
+NALU Type: 1
+NALU Bytes: 41 9A 60 47 22 D5 EA 92 8D 93 
+Read Sample size: 6254
+Read Sample bytes: 00 00 18 6a 41 9a 80 47 7e 08 ce e6 
+Sample Time: 1700000
+Sample bytes: fc 7c aa 0e 3d d7 96 54 a3 9e e5 aa 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc 36 56 03 98 20 fa 09 9b 27 8b 6a 
+Sample Time: 1720000
+Sample bytes: fc 36 56 03 98 20 fa 09 9b 27 8b 6a 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc 4a c6 69 4d d2 9d 5f 98 ac 63 50 
+Sample Time: 1733316
+Sample bytes: 00 00 18 6a 41 9a 80 47 7e 08 ce e6 
+Sample size in hex: 186e, 6e180000
+Sending video sample with size: 6254 to 2NeITDGQMr
+Packetizer: 6254
+NALU Size: 6250, 6a180000, 6a180000
+NALU Type: 1
+NALU Bytes: 41 9A 80 47 7E 08 CE E6 AF D2 
+Read Sample size: 4176
+Read Sample bytes: 00 00 10 4c 41 9a a0 47 75 b3 cc bd 
+Sample Time: 1740000
+Sample bytes: fc 4a c6 69 4d d2 9d 5f 98 ac 63 50 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc 4c eb 1d 15 27 6c 9c 6d a5 a6 7b 
+Sample Time: 1760000
+Sample bytes: fc 4c eb 1d 15 27 6c 9c 6d a5 a6 7b 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fd e2 7b 79 21 65 54 79 b7 e2 2b 
+Sample Time: 1766649
+Sample bytes: 00 00 10 4c 41 9a a0 47 75 b3 cc bd 
+Sample size in hex: 1050, 50100000
+Sending video sample with size: 4176 to 2NeITDGQMr
+Packetizer: 4176
+NALU Size: 4172, 4c100000, 4c100000
+NALU Type: 1
+NALU Bytes: 41 9A A0 47 75 B3 CC BD AF AB 
+Read Sample size: 6849
+Read Sample bytes: 00 00 1a bd 41 9a c0 df ef a4 92 7d 
+Sample Time: 1780000
+Sample bytes: fc fd e2 7b 79 21 65 54 79 b7 e2 2b 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fd e3 32 28 83 23 b3 c7 19 d6 5d 
+Sample Time: 1799982
+Sample bytes: 00 00 1a bd 41 9a c0 df ef a4 92 7d 
+Sample size in hex: 1ac1, c11a0000
+Sending video sample with size: 6849 to 2NeITDGQMr
+Packetizer: 6849
+NALU Size: 6845, bd1a0000, bd1a0000
+NALU Type: 1
+NALU Bytes: 41 9A C0 DF EF A4 92 7D 58 92 
+Read Sample size: 2912
+Read Sample bytes: 00 00 0b 5c 41 9a e0 47 27 77 ee e9 
+Sample Time: 1800000
+Sample bytes: fc fd e3 32 28 83 23 b3 c7 19 d6 5d 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc e0 17 e3 98 0f 08 c0 55 6c ae 
+Sample Time: 1820000
+Sample bytes: fc fc e0 17 e3 98 0f 08 c0 55 6c ae 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fd e1 bf 6e 60 34 b5 14 81 68 33 
+Sample Time: 1833315
+Sample bytes: 00 00 0b 5c 41 9a e0 47 27 77 ee e9 
+Sample size in hex: b60, 600b0000
+Sending video sample with size: 2912 to 2NeITDGQMr
+Packetizer: 2912
+NALU Size: 2908, 5c0b0000, 5c0b0000
+NALU Type: 1
+NALU Bytes: 41 9A E0 47 27 77 EE E9 62 E9 
+Read Sample size: 5037
+Read Sample bytes: 00 00 13 a9 41 9b 00 47 ea ef 67 5e 
+Sample Time: 1840000
+Sample bytes: fc fd e1 bf 6e 60 34 b5 14 81 68 33 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fd da ae 94 59 f9 57 27 1b a7 df 
+Sample Time: 1860000
+Sample bytes: fc fd da ae 94 59 f9 57 27 1b a7 df 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fd c6 f2 1e 9d 6a 60 7a 2a fd 6d 
+Sample Time: 1866648
+Sample bytes: 00 00 13 a9 41 9b 00 47 ea ef 67 5e 
+Sample size in hex: 13ad, ad130000
+Sending video sample with size: 5037 to 2NeITDGQMr
+Packetizer: 5037
+NALU Size: 5033, a9130000, a9130000
+NALU Type: 1
+NALU Bytes: 41 9B 00 47 EA EF 67 5E 42 A2 
+Read Sample size: 3136
+Read Sample bytes: 00 00 0c 3c 41 9b 20 47 7e 43 9e 3d 
+Sample Time: 1880000
+Sample bytes: fc fd c6 f2 1e 9d 6a 60 7a 2a fd 6d 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fd dd 37 9e 29 43 82 a5 68 40 e2 
+Sample Time: 1899981
+Sample bytes: 00 00 0c 3c 41 9b 20 47 7e 43 9e 3d 
+Sample size in hex: c40, 400c0000
+Sending video sample with size: 3136 to 2NeITDGQMr
+Packetizer: 3136
+NALU Size: 3132, 3c0c0000, 3c0c0000
+NALU Type: 1
+NALU Bytes: 41 9B 20 47 7E 43 9E 3D F5 AB 
+Read Sample size: 6077
+Read Sample bytes: 00 00 17 b9 41 9b 40 47 7e 08 4e fa 
+Sample Time: 1900000
+Sample bytes: fc fd dd 37 9e 29 43 82 a5 68 40 e2 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fd dd 41 bd af b8 78 95 e7 85 ad 
+Sample Time: 1920000
+Sample bytes: fc fd dd 41 bd af b8 78 95 e7 85 ad 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fd dc 55 bd e4 7c e5 be 97 ba b1 
+Sample Time: 1933314
+Sample bytes: 00 00 17 b9 41 9b 40 47 7e 08 4e fa 
+Sample size in hex: 17bd, bd170000
+Sending video sample with size: 6077 to 2NeITDGQMr
+Packetizer: 6077
+NALU Size: 6073, b9170000, b9170000
+NALU Type: 1
+NALU Bytes: 41 9B 40 47 7E 08 4E FA BF B8 
+Read Sample size: 4066
+Read Sample bytes: 00 00 0f de 41 9b 60 47 f9 3c d6 bc 
+Sample Time: 1940000
+Sample bytes: fc fd dc 55 bd e4 7c e5 be 97 ba b1 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fd dd 2f a4 43 17 f3 45 09 17 ab 
+Sample Time: 1960000
+Sample bytes: fc fd dd 2f a4 43 17 f3 45 09 17 ab 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fd da 73 78 3a 1e 62 cd 49 30 49 
+Sample Time: 1966647
+Sample bytes: 00 00 0f de 41 9b 60 47 f9 3c d6 bc 
+Sample size in hex: fe2, e20f0000
+Sending video sample with size: 4066 to 2NeITDGQMr
+Packetizer: 4066
+NALU Size: 4062, de0f0000, de0f0000
+NALU Type: 1
+NALU Bytes: 41 9B 60 47 F9 3C D6 BC 11 1C 
+Read Sample size: 21895
+Read Sample bytes: 00 00 55 83 41 9b 80 9f 8c 82 2b 57 
+Sample Time: 1980000
+Sample bytes: fc fd da 73 78 3a 1e 62 cd 49 30 49 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc b9 61 9f d5 06 82 94 a3 6a b5 
+Sample Time: 1999980
+Sample bytes: 00 00 55 83 41 9b 80 9f 8c 82 2b 57 
+Sample size in hex: 5587, 87550000
+Sending video sample with size: 21895 to 2NeITDGQMr
+Packetizer: 21895
+NALU Size: 21891, 83550000, 83550000
+NALU Type: 1
+NALU Bytes: 41 9B 80 9F 8C 82 2B 57 28 D7 
+Read Sample size: 5451
+Read Sample bytes: 00 00 15 47 41 9b a0 dd f8 24 28 eb 
+Sample Time: 2000000
+Sample bytes: fc fc b9 61 9f d5 06 82 94 a3 6a b5 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc b9 4d a8 10 a9 11 56 0d 31 26 
+Message from 2NeITDGQMr received: Pong 65862
+Sample Time: 2020000
+Sample bytes: fc fc b9 4d a8 10 a9 11 56 0d 31 26 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fd dc 5a 92 17 ea 5e 3c c9 b7 91 
+Sample Time: 2033313
+Sample bytes: 00 00 15 47 41 9b a0 dd f8 24 28 eb 
+Sample size in hex: 154b, 4b150000
+Sending video sample with size: 5451 to 2NeITDGQMr
+Packetizer: 5451
+NALU Size: 5447, 47150000, 47150000
+NALU Type: 1
+NALU Bytes: 41 9B A0 DD F8 24 28 EB 5F F7 
+Read Sample size: 8261
+Read Sample bytes: 00 00 20 41 41 9b c0 dd f8 48 b3 cd 
+Sample Time: 2040000
+Sample bytes: fc fd dc 5a 92 17 ea 5e 3c c9 b7 91 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fd e1 b7 76 16 50 ed 1e e7 fe d7 
+Sample Time: 2060000
+Sample bytes: fc fd e1 b7 76 16 50 ed 1e e7 fe d7 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc ff da a2 41 00 96 fb d0 d5 fb ef 
+Sample Time: 2066646
+Sample bytes: 00 00 20 41 41 9b c0 dd f8 48 b3 cd 
+Sample size in hex: 2045, 45200000
+Sending video sample with size: 8261 to 2NeITDGQMr
+Packetizer: 8261
+NALU Size: 8257, 41200000, 41200000
+NALU Type: 1
+NALU Bytes: 41 9B C0 DD F8 48 B3 CD 3E B6 
+Read Sample size: 6340
+Read Sample bytes: 00 00 18 c0 41 9b e0 47 fb dc 9f 5e 
+Sample Time: 2080000
+Sample bytes: fc ff da a2 41 00 96 fb d0 d5 fb ef 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fb 06 57 1d 60 c8 8a 24 e3 98 94 
+Sample Time: 2099979
+Sample bytes: 00 00 18 c0 41 9b e0 47 fb dc 9f 5e 
+Sample size in hex: 18c4, c4180000
+Sending video sample with size: 6340 to 2NeITDGQMr
+Packetizer: 6340
+NALU Size: 6336, c0180000, c0180000
+NALU Type: 1
+NALU Bytes: 41 9B E0 47 FB DC 9F 5E 08 8A 
+Read Sample size: 7594
+Read Sample bytes: 00 00 1d a6 41 9a 00 df e2 ed da 97 
+Sample Time: 2100000
+Sample bytes: fc fb 06 57 1d 60 c8 8a 24 e3 98 94 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fd da 94 c8 44 2a 14 24 71 11 7f 
+Sample Time: 2120000
+Sample bytes: fc fd da 94 c8 44 2a 14 24 71 11 7f 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fd bc cf 9d 45 54 3c 1e 5b 4d a4 
+Sample Time: 2133312
+Sample bytes: 00 00 1d a6 41 9a 00 df e2 ed da 97 
+Sample size in hex: 1daa, aa1d0000
+Sending video sample with size: 7594 to 2NeITDGQMr
+Packetizer: 7594
+NALU Size: 7590, a61d0000, a61d0000
+NALU Type: 1
+NALU Bytes: 41 9A 00 DF E2 ED DA 97 FE 4A 
+Read Sample size: 5431
+Read Sample bytes: 00 00 15 33 41 9a 20 47 0c 77 f4 8a 
+Sample Time: 2140000
+Sample bytes: fc fd bc cf 9d 45 54 3c 1e 5b 4d a4 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc b7 b1 d0 67 bd a1 ef dc 89 3c 
+Sample Time: 2160000
+Sample bytes: fc fc b7 b1 d0 67 bd a1 ef dc 89 3c 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fd bc a0 9f 16 54 41 0a 86 de 94 
+Sample Time: 2166645
+Sample bytes: 00 00 15 33 41 9a 20 47 0c 77 f4 8a 
+Sample size in hex: 1537, 37150000
+Sending video sample with size: 5431 to 2NeITDGQMr
+Packetizer: 5431
+NALU Size: 5427, 33150000, 33150000
+NALU Type: 1
+NALU Bytes: 41 9A 20 47 0C 77 F4 8A DD 5C 
+Read Sample size: 7697
+Read Sample bytes: 00 00 1e 0d 41 9a 40 dd fa d7 24 88 
+Sample Time: 2180000
+Sample bytes: fc fd bc a0 9f 16 54 41 0a 86 de 94 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fd de b4 ee d9 a1 63 b9 dc 1c 38 
+Sample Time: 2199978
+Sample bytes: 00 00 1e 0d 41 9a 40 dd fa d7 24 88 
+Sample size in hex: 1e11, 111e0000
+Sending video sample with size: 7697 to 2NeITDGQMr
+Packetizer: 7697
+NALU Size: 7693, d1e0000, d1e0000
+NALU Type: 1
+NALU Bytes: 41 9A 40 DD FA D7 24 88 ED FF 
+Read Sample size: 4571
+Read Sample bytes: 00 00 11 d7 41 9a 60 dd 49 82 1c f1 
+Sample Time: 2200000
+Sample bytes: fc fd de b4 ee d9 a1 63 b9 dc 1c 38 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc ee 99 ef 6a ef 2c cd 4d 91 85 
+Sample Time: 2220000
+Sample bytes: fc fc ee 99 ef 6a ef 2c cd 4d 91 85 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc b9 0f e9 5c 54 54 e8 30 3b 7f 
+Sample Time: 2233311
+Sample bytes: 00 00 11 d7 41 9a 60 dd 49 82 1c f1 
+Sample size in hex: 11db, db110000
+Sending video sample with size: 4571 to 2NeITDGQMr
+Packetizer: 4571
+NALU Size: 4567, d7110000, d7110000
+NALU Type: 1
+NALU Bytes: 41 9A 60 DD 49 82 1C F1 EB F2 
+Read Sample size: 7504
+Read Sample bytes: 00 00 1d 4c 41 9a 80 df eb 55 5a bf 
+Sample Time: 2240000
+Sample bytes: fc fc b9 0f e9 5c 54 54 e8 30 3b 7f 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc 7c ae 3c ab 7a f0 1c 69 0c de 20 
+Sample Time: 2260000
+Sample bytes: fc 7c ae 3c ab 7a f0 1c 69 0c de 20 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc d2 0e bd a3 3a c4 3c 80 ce a6 b1 
+Sample Time: 2266644
+Sample bytes: 00 00 1d 4c 41 9a 80 df eb 55 5a bf 
+Sample size in hex: 1d50, 501d0000
+Sending video sample with size: 7504 to 2NeITDGQMr
+Packetizer: 7504
+NALU Size: 7500, 4c1d0000, 4c1d0000
+NALU Type: 1
+NALU Bytes: 41 9A 80 DF EB 55 5A BF CB 27 
+Read Sample size: 4162
+Read Sample bytes: 00 00 10 3e 41 9a a0 47 7e 09 4a 95 
+Sample Time: 2280000
+Sample bytes: fc d2 0e bd a3 3a c4 3c 80 ce a6 b1 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc d3 30 1b 13 bf 5b c8 1b e3 09 b7 
+Sample Time: 2299977
+Sample bytes: 00 00 10 3e 41 9a a0 47 7e 09 4a 95 
+Sample size in hex: 1042, 42100000
+Sending video sample with size: 4162 to 2NeITDGQMr
+Packetizer: 4162
+NALU Size: 4158, 3e100000, 3e100000
+NALU Type: 1
+NALU Bytes: 41 9A A0 47 7E 09 4A 95 F2 4C 
+Read Sample size: 6943
+Read Sample bytes: 00 00 1b 1b 41 9a c0 df 7c 8b e9 5b 
+Sample Time: 2300000
+Sample bytes: fc d3 30 1b 13 bf 5b c8 1b e3 09 b7 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc b9 64 ce 23 57 a9 f8 95 00 ee 
+Sample Time: 2320000
+Sample bytes: fc fc b9 64 ce 23 57 a9 f8 95 00 ee 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc ba 5e a4 c5 ed f6 6a fd 1e 53 
+Sample Time: 2333310
+Sample bytes: 00 00 1b 1b 41 9a c0 df 7c 8b e9 5b 
+Sample size in hex: 1b1f, 1f1b0000
+Sending video sample with size: 6943 to 2NeITDGQMr
+Packetizer: 6943
+NALU Size: 6939, 1b1b0000, 1b1b0000
+NALU Type: 1
+NALU Bytes: 41 9A C0 DF 7C 8B E9 5B 95 B8 
+Read Sample size: 3669
+Read Sample bytes: 00 00 0e 51 41 9a e0 47 0b 5f 3f 48 
+Sample Time: 2340000
+Sample bytes: fc fc ba 5e a4 c5 ed f6 6a fd 1e 53 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc b8 d5 f6 be ff 95 15 10 0b 24 
+Sample Time: 2360000
+Sample bytes: fc fc b8 d5 f6 be ff 95 15 10 0b 24 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fd bd d0 cb 8a 3c 47 1c ee 36 60 
+Sample Time: 2366643
+Sample bytes: 00 00 0e 51 41 9a e0 47 0b 5f 3f 48 
+Sample size in hex: e55, 550e0000
+Sending video sample with size: 3669 to 2NeITDGQMr
+Packetizer: 3669
+NALU Size: 3665, 510e0000, 510e0000
+NALU Type: 1
+NALU Bytes: 41 9A E0 47 0B 5F 3F 48 4C A6 
+Read Sample size: 6220
+Read Sample bytes: 00 00 18 48 41 9b 00 dd f8 9c 81 f9 
+Sample Time: 2380000
+Sample bytes: fc fd bd d0 cb 8a 3c 47 1c ee 36 60 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc ee 4f a5 0c 16 21 21 d1 58 f8 
+Sample Time: 2399976
+Sample bytes: 00 00 18 48 41 9b 00 dd f8 9c 81 f9 
+Sample size in hex: 184c, 4c180000
+Sending video sample with size: 6220 to 2NeITDGQMr
+Packetizer: 6220
+NALU Size: 6216, 48180000, 48180000
+NALU Type: 1
+NALU Bytes: 41 9B 00 DD F8 9C 81 F9 8B 17 
+Read Sample size: 4214
+Read Sample bytes: 00 00 10 72 41 9b 20 47 fa d5 fa 3a 
+Sample Time: 2400000
+Sample bytes: fc fc ee 4f a5 0c 16 21 21 d1 58 f8 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc b2 08 ec 58 39 c3 6a 2f b2 a7 
+Sample Time: 2420000
+Sample bytes: fc fc b2 08 ec 58 39 c3 6a 2f b2 a7 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc ff da 92 f3 c3 78 97 de e0 03 a6 
+Sample Time: 2433309
+Sample bytes: 00 00 10 72 41 9b 20 47 fa d5 fa 3a 
+Sample size in hex: 1076, 76100000
+Sending video sample with size: 4214 to 2NeITDGQMr
+Packetizer: 4214
+NALU Size: 4210, 72100000, 72100000
+NALU Type: 1
+NALU Bytes: 41 9B 20 47 FA D5 FA 3A 44 5A 
+Read Sample size: 6627
+Read Sample bytes: 00 00 19 df 41 9b 40 47 59 28 8d 37 
+Sample Time: 2440000
+Sample bytes: fc ff da 92 f3 c3 78 97 de e0 03 a6 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc ff d9 b6 49 3b c9 0b 08 1b 4f 9a 
+Sample Time: 2460000
+Sample bytes: fc ff d9 b6 49 3b c9 0b 08 1b 4f 9a 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fa ba d6 2b fd 91 d7 36 3b 25 19 
+Sample Time: 2466642
+Sample bytes: 00 00 19 df 41 9b 40 47 59 28 8d 37 
+Sample size in hex: 19e3, e3190000
+Sending video sample with size: 6627 to 2NeITDGQMr
+Packetizer: 6627
+NALU Size: 6623, df190000, df190000
+NALU Type: 1
+NALU Bytes: 41 9B 40 47 59 28 8D 37 88 39 
+Read Sample size: 11237
+Read Sample bytes: 00 00 2b e1 41 9b 60 dd 56 4b af 2f 
+Sample Time: 2480000
+Sample bytes: fc fa ba d6 2b fd 91 d7 36 3b 25 19 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc b2 2b 95 4e c0 d8 99 50 47 36 
+Sample Time: 2499975
+Sample bytes: 00 00 2b e1 41 9b 60 dd 56 4b af 2f 
+Sample size in hex: 2be5, e52b0000
+Sending video sample with size: 11237 to 2NeITDGQMr
+Packetizer: 11237
+NALU Size: 11233, e12b0000, e12b0000
+NALU Type: 1
+NALU Bytes: 41 9B 60 DD 56 4B AF 2F BA FA 
+Read Sample size: 4195
+Read Sample bytes: 00 00 10 5f 41 9b 80 47 7e 08 8b 97 
+Sample Time: 2500000
+Sample bytes: fc fc b2 2b 95 4e c0 d8 99 50 47 36 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc b2 2b 94 67 f7 04 3e b1 d0 bb 
+Sample Time: 2520000
+Sample bytes: fc fc b2 2b 94 67 f7 04 3e b1 d0 bb 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc b1 f1 bb 70 b2 d6 01 4c d4 5d 
+Sample Time: 2533308
+Sample bytes: 00 00 10 5f 41 9b 80 47 7e 08 8b 97 
+Sample size in hex: 1063, 63100000
+Sending video sample with size: 4195 to 2NeITDGQMr
+Packetizer: 4195
+NALU Size: 4191, 5f100000, 5f100000
+NALU Type: 1
+NALU Bytes: 41 9B 80 47 7E 08 8B 97 53 D4 
+Read Sample size: 3246
+Read Sample bytes: 00 00 0c aa 41 9b a0 47 f9 3c dd ac 
+Sample Time: 2540000
+Sample bytes: fc fc b1 f1 bb 70 b2 d6 01 4c d4 5d 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc b2 08 fa 4b 06 08 44 8b d3 23 
+Sample Time: 2560000
+Sample bytes: fc fc b2 08 fa 4b 06 08 44 8b d3 23 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc 92 f6 5e 3a 5c d8 ce 77 f7 0f 
+Sample Time: 2566641
+Sample bytes: 00 00 0c aa 41 9b a0 47 f9 3c dd ac 
+Sample size in hex: cae, ae0c0000
+Sending video sample with size: 3246 to 2NeITDGQMr
+Packetizer: 3246
+NALU Size: 3242, aa0c0000, aa0c0000
+NALU Type: 1
+NALU Bytes: 41 9B A0 47 F9 3C DD AC B8 9F 
+Read Sample size: 6123
+Read Sample bytes: 00 00 17 e7 41 9b c0 47 e4 fe 5c f0 
+Sample Time: 2580000
+Sample bytes: fc fc 92 f6 5e 3a 5c d8 ce 77 f7 0f 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc b2 09 0a a2 f4 e8 aa 46 5a 0f 
+Sample Time: 2599974
+Sample bytes: 00 00 17 e7 41 9b c0 47 e4 fe 5c f0 
+Sample size in hex: 17eb, eb170000
+Sending video sample with size: 6123 to 2NeITDGQMr
+Packetizer: 6123
+NALU Size: 6119, e7170000, e7170000
+NALU Type: 1
+NALU Bytes: 41 9B C0 47 E4 FE 5C F0 F9 63 
+Read Sample size: 3553
+Read Sample bytes: 00 00 0d dd 41 9b e0 47 7e 42 b7 ba 
+Sample Time: 2600000
+Sample bytes: fc fc b2 09 0a a2 f4 e8 aa 46 5a 0f 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc 7d 5c 50 5d 9d 80 cc bc 6b da ac 
+Sample Time: 2620000
+Sample bytes: fc 7d 5c 50 5d 9d 80 cc bc 6b da ac 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc 7c aa 87 e1 28 76 c1 4b 81 a5 c6 
+Sample Time: 2633307
+Sample bytes: 00 00 0d dd 41 9b e0 47 7e 42 b7 ba 
+Sample size in hex: de1, e10d0000
+Sending video sample with size: 3553 to 2NeITDGQMr
+Packetizer: 3553
+NALU Size: 3549, dd0d0000, dd0d0000
+NALU Type: 1
+NALU Bytes: 41 9B E0 47 7E 42 B7 BA D6 FC 
+Read Sample size: 6704
+Read Sample bytes: 00 00 1a 2c 41 9a 00 47 34 9c 9e 62 
+Sample Time: 2640000
+Sample bytes: fc 7c aa 87 e1 28 76 c1 4b 81 a5 c6 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc d1 e8 c9 97 08 0c 9d 15 4c 09 9b 
+Sample Time: 2660000
+Sample bytes: fc d1 e8 c9 97 08 0c 9d 15 4c 09 9b 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc d3 30 6f fa e0 24 98 c2 21 44 5f 
+Sample Time: 2666640
+Sample bytes: 00 00 1a 2c 41 9a 00 47 34 9c 9e 62 
+Sample size in hex: 1a30, 301a0000
+Sending video sample with size: 6704 to 2NeITDGQMr
+Packetizer: 6704
+NALU Size: 6700, 2c1a0000, 2c1a0000
+NALU Type: 1
+NALU Bytes: 41 9A 00 47 34 9C 9E 62 AD 62 
+Read Sample size: 3591
+Read Sample bytes: 00 00 0e 03 41 9a 20 47 7e 10 2d c7 
+Sample Time: 2680000
+Sample bytes: fc d3 30 6f fa e0 24 98 c2 21 44 5f 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc d3 30 1c 25 53 4d 7d 85 c5 fd b6 
+Sample Time: 2699973
+Sample bytes: 00 00 0e 03 41 9a 20 47 7e 10 2d c7 
+Sample size in hex: e07, 70e0000
+Sending video sample with size: 3591 to 2NeITDGQMr
+Packetizer: 3591
+NALU Size: 3587, 30e0000, 30e0000
+NALU Type: 1
+NALU Bytes: 41 9A 20 47 7E 10 2D C7 AB E3 
+Read Sample size: 6074
+Read Sample bytes: 00 00 17 b6 41 9a 40 47 e2 64 97 39 
+Sample Time: 2700000
+Sample bytes: fc d3 30 1c 25 53 4d 7d 85 c5 fd b6 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc d3 35 00 5a d7 d0 3a 68 fe 2e 1e 
+Sample Time: 2720000
+Sample bytes: fc d3 35 00 5a d7 d0 3a 68 fe 2e 1e 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc d3 30 1b f1 ab 4a 23 ce cb 4a e4 
+Sample Time: 2733306
+Sample bytes: 00 00 17 b6 41 9a 40 47 e2 64 97 39 
+Sample size in hex: 17ba, ba170000
+Sending video sample with size: 6074 to 2NeITDGQMr
+Packetizer: 6074
+NALU Size: 6070, b6170000, b6170000
+NALU Type: 1
+NALU Bytes: 41 9A 40 47 E2 64 97 39 DE BC 
+Read Sample size: 3228
+Read Sample bytes: 00 00 0c 98 41 9a 60 47 6d ff cb 47 
+Sample Time: 2740000
+Sample bytes: fc d3 30 1b f1 ab 4a 23 ce cb 4a e4 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc d3 12 4e d1 24 e9 2b 31 9b b5 83 
+Sample Time: 2760000
+Sample bytes: fc d3 12 4e d1 24 e9 2b 31 9b b5 83 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc d3 30 41 6a 13 ff d3 4f 0d 69 c5 
+Sample Time: 2766639
+Sample bytes: 00 00 0c 98 41 9a 60 47 6d ff cb 47 
+Sample size in hex: c9c, 9c0c0000
+Sending video sample with size: 3228 to 2NeITDGQMr
+Packetizer: 3228
+NALU Size: 3224, 980c0000, 980c0000
+NALU Type: 1
+NALU Bytes: 41 9A 60 47 6D FF CB 47 6F FC 
+Read Sample size: 6554
+Read Sample bytes: 00 00 19 96 41 9a 80 47 64 f5 ff fa 
+Sample Time: 2780000
+Sample bytes: fc d3 30 41 6a 13 ff d3 4f 0d 69 c5 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc ff c9 2e 1d dd ba 20 73 7c 09 cf 
+Sample Time: 2799972
+Sample bytes: 00 00 19 96 41 9a 80 47 64 f5 ff fa 
+Sample size in hex: 199a, 9a190000
+Sending video sample with size: 6554 to 2NeITDGQMr
+Packetizer: 6554
+NALU Size: 6550, 96190000, 96190000
+NALU Type: 1
+NALU Bytes: 41 9A 80 47 64 F5 FF FA 4C 13 
+Read Sample size: 3230
+Read Sample bytes: 00 00 0c 9a 41 9a a0 47 e5 ab d7 a2 
+Sample Time: 2800000
+Sample bytes: fc ff c9 2e 1d dd ba 20 73 7c 09 cf 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc ff c9 6a 4f da c0 ca 2f 5d 91 9a 
+Sample Time: 2820000
+Sample bytes: fc ff c9 6a 4f da c0 ca 2f 5d 91 9a 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc 4e cf ab 6f 67 8e 10 2b 0c c2 
+Sample Time: 2833305
+Sample bytes: 00 00 0c 9a 41 9a a0 47 e5 ab d7 a2 
+Sample size in hex: c9e, 9e0c0000
+Sending video sample with size: 3230 to 2NeITDGQMr
+Packetizer: 3230
+NALU Size: 3226, 9a0c0000, 9a0c0000
+NALU Type: 1
+NALU Bytes: 41 9A A0 47 E5 AB D7 A2 B7 EB 
+Read Sample size: 5567
+Read Sample bytes: 00 00 15 bb 41 9a c0 47 d7 5e 24 b9 
+Sample Time: 2840000
+Sample bytes: fc fc 4e cf ab 6f 67 8e 10 2b 0c c2 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc 93 23 59 84 54 3b b4 31 47 6f 
+Sample Time: 2860000
+Sample bytes: fc fc 93 23 59 84 54 3b b4 31 47 6f 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc 93 16 de 82 d4 3e 6f c8 ce d3 
+Sample Time: 2866638
+Sample bytes: 00 00 15 bb 41 9a c0 47 d7 5e 24 b9 
+Sample size in hex: 15bf, bf150000
+Sending video sample with size: 5567 to 2NeITDGQMr
+Packetizer: 5567
+NALU Size: 5563, bb150000, bb150000
+NALU Type: 1
+NALU Bytes: 41 9A C0 47 D7 5E 24 B9 1B 84 
+Read Sample size: 3149
+Read Sample bytes: 00 00 0c 49 41 9a e0 47 7e 08 4a b6 
+Sample Time: 2880000
+Sample bytes: fc fc 93 16 de 82 d4 3e 6f c8 ce d3 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc 93 1a d1 ca 2a 10 82 df 56 f3 
+Sample Time: 2899971
+Sample bytes: 00 00 0c 49 41 9a e0 47 7e 08 4a b6 
+Sample size in hex: c4d, 4d0c0000
+Sending video sample with size: 3149 to 2NeITDGQMr
+Packetizer: 3149
+NALU Size: 3145, 490c0000, 490c0000
+NALU Type: 1
+NALU Bytes: 41 9A E0 47 7E 08 4A B6 AF 5E 
+Read Sample size: 6350
+Read Sample bytes: 00 00 18 ca 41 9b 00 47 e5 92 b9 24 
+Sample Time: 2900000
+Sample bytes: fc fc 93 1a d1 ca 2a 10 82 df 56 f3 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc 9f 45 bd 46 4b 49 4d d6 04 a8 
+Sample Time: 2920000
+Sample bytes: fc fc 9f 45 bd 46 4b 49 4d d6 04 a8 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc 92 f7 a9 ed 24 28 48 4e 88 43 
+Sample Time: 2933304
+Sample bytes: 00 00 18 ca 41 9b 00 47 e5 92 b9 24 
+Sample size in hex: 18ce, ce180000
+Sending video sample with size: 6350 to 2NeITDGQMr
+Packetizer: 6350
+NALU Size: 6346, ca180000, ca180000
+NALU Type: 1
+NALU Bytes: 41 9B 00 47 E5 92 B9 24 BC 41 
+Read Sample size: 4343
+Read Sample bytes: 00 00 10 f3 41 9b 20 47 75 90 a8 f5 
+Sample Time: 2940000
+Sample bytes: fc fc 92 f7 a9 ed 24 28 48 4e 88 43 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc 92 f6 63 96 8f 75 21 a2 e0 46 
+Sample Time: 2960000
+Sample bytes: fc fc 92 f6 63 96 8f 75 21 a2 e0 46 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc 7c ae 77 32 7f 64 39 9a 13 d4 92 
+Sample Time: 2966637
+Sample bytes: 00 00 10 f3 41 9b 20 47 75 90 a8 f5 
+Sample size in hex: 10f7, f7100000
+Sending video sample with size: 4343 to 2NeITDGQMr
+Packetizer: 4343
+NALU Size: 4339, f3100000, f3100000
+NALU Type: 1
+NALU Bytes: 41 9B 20 47 75 90 A8 F5 C9 4B 
+Read Sample size: 23507
+Read Sample bytes: 00 00 5b cf 41 9b 40 9f 92 14 91 be 
+Sample Time: 2980000
+Sample bytes: fc 7c ae 77 32 7f 64 39 9a 13 d4 92 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc bf c9 dc c5 db a2 77 a1 c8 e7 3c 
+Sample Time: 2999970
+Sample bytes: 00 00 5b cf 41 9b 40 9f 92 14 91 be 
+Sample size in hex: 5bd3, d35b0000
+Sending video sample with size: 23507 to 2NeITDGQMr
+Packetizer: 23507
+NALU Size: 23503, cf5b0000, cf5b0000
+NALU Type: 1
+NALU Bytes: 41 9B 40 9F 92 14 91 BE BA 94 
+Read Sample size: 5122
+Read Sample bytes: 00 00 13 fe 41 9b 60 dd f9 35 a9 7a 
+Sample Time: 3000000
+Sample bytes: fc bf c9 dc c5 db a2 77 a1 c8 e7 3c 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc 2f d7 48 2f 32 40 96 31 97 7d f1 
+Message from 2NeITDGQMr received: Pong 66866
+Sample Time: 3020000
+Sample bytes: fc 2f d7 48 2f 32 40 96 31 97 7d f1 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc 4d 30 0d 79 44 d0 e1 36 78 d9 8a 
+Sample Time: 3033303
+Sample bytes: 00 00 13 fe 41 9b 60 dd f9 35 a9 7a 
+Sample size in hex: 1402, 2140000
+Sending video sample with size: 5122 to 2NeITDGQMr
+Packetizer: 5122
+NALU Size: 5118, fe130000, fe130000
+NALU Type: 1
+NALU Bytes: 41 9B 60 DD F9 35 A9 7A 04 79 
+Read Sample size: 8552
+Read Sample bytes: 00 00 21 64 41 9b 80 57 26 22 c5 92 
+Sample Time: 3040000
+Sample bytes: fc 4d 30 0d 79 44 d0 e1 36 78 d9 8a 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc 4c ea 96 d9 61 0a 6e fc f1 d8 ce 
+Sample Time: 3060000
+Sample bytes: fc 4c ea 96 d9 61 0a 6e fc f1 d8 ce 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc 4d 57 4e ef df 33 d4 db 12 5d 23 
+Sample Time: 3066636
+Sample bytes: 00 00 21 64 41 9b 80 57 26 22 c5 92 
+Sample size in hex: 2168, 68210000
+Sending video sample with size: 8552 to 2NeITDGQMr
+Packetizer: 8552
+NALU Size: 8548, 64210000, 64210000
+NALU Type: 1
+NALU Bytes: 41 9B 80 57 26 22 C5 92 54 F2 
+Read Sample size: 5253
+Read Sample bytes: 00 00 14 81 41 9b a0 67 22 f8 a6 34 
+Sample Time: 3080000
+Sample bytes: fc 4d 57 4e ef df 33 d4 db 12 5d 23 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc 4a 9a 7b bf 48 8a 47 07 fd 44 e5 
+Sample Time: 3099969
+Sample bytes: 00 00 14 81 41 9b a0 67 22 f8 a6 34 
+Sample size in hex: 1485, 85140000
+Sending video sample with size: 5253 to 2NeITDGQMr
+Packetizer: 5253
+NALU Size: 5249, 81140000, 81140000
+NALU Type: 1
+NALU Bytes: 41 9B A0 67 22 F8 A6 34 D7 13 
+Read Sample size: 8564
+Read Sample bytes: 00 00 21 70 41 9b c0 dd 6e 0a 35 b9 
+Sample Time: 3100000
+Sample bytes: fc 4a 9a 7b bf 48 8a 47 07 fd 44 e5 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc 4c b0 50 a1 34 d6 2e 80 b8 e3 a2 
+Sample Time: 3120000
+Sample bytes: fc 4c b0 50 a1 34 d6 2e 80 b8 e3 a2 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc a1 9a b6 a8 6a ce 74 be 26 c9 
+Sample Time: 3133302
+Sample bytes: 00 00 21 70 41 9b c0 dd 6e 0a 35 b9 
+Sample size in hex: 2174, 74210000
+Sending video sample with size: 8564 to 2NeITDGQMr
+Packetizer: 8564
+NALU Size: 8560, 70210000, 70210000
+NALU Type: 1
+NALU Bytes: 41 9B C0 DD 6E 0A 35 B9 6C B4 
+Read Sample size: 4294
+Read Sample bytes: 00 00 10 c2 41 9b e0 df a5 5e 12 ce 
+Sample Time: 3140000
+Sample bytes: fc fc a1 9a b6 a8 6a ce 74 be 26 c9 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc df 79 10 b6 de 6b 99 b2 e0 ae 
+Sample Time: 3160000
+Sample bytes: fc fc df 79 10 b6 de 6b 99 b2 e0 ae 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc 7c af 6f dd cb 70 1d 5f 2b 77 d1 
+Sample Time: 3166635
+Sample bytes: 00 00 10 c2 41 9b e0 df a5 5e 12 ce 
+Sample size in hex: 10c6, c6100000
+Sending video sample with size: 4294 to 2NeITDGQMr
+Packetizer: 4294
+NALU Size: 4290, c2100000, c2100000
+NALU Type: 1
+NALU Bytes: 41 9B E0 DF A5 5E 12 CE DC BD 
+Read Sample size: 7742
+Read Sample bytes: 00 00 1e 3a 41 9a 00 47 fa bf 92 af 
+Sample Time: 3180000
+Sample bytes: fc 7c af 6f dd cb 70 1d 5f 2b 77 d1 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc 2d f6 24 36 da 0e 6d dd e2 d7 c8 
+Sample Time: 3199968
+Sample bytes: 00 00 1e 3a 41 9a 00 47 fa bf 92 af 
+Sample size in hex: 1e3e, 3e1e0000
+Sending video sample with size: 7742 to 2NeITDGQMr
+Packetizer: 7742
+NALU Size: 7738, 3a1e0000, 3a1e0000
+NALU Type: 1
+NALU Bytes: 41 9A 00 47 FA BF 92 AF E5 82 
+Read Sample size: 3747
+Read Sample bytes: 00 00 0e 9f 41 9a 20 57 97 f4 ee 81 
+Sample Time: 3200000
+Sample bytes: fc 2d f6 24 36 da 0e 6d dd e2 d7 c8 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc 93 e2 35 f5 c1 fb 7b a5 ed 45 
+Sample Time: 3220000
+Sample bytes: fc fc 93 e2 35 f5 c1 fb 7b a5 ed 45 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc b9 64 d7 46 dd 0a d3 cd aa 8c 
+Sample Time: 3233301
+Sample bytes: 00 00 0e 9f 41 9a 20 57 97 f4 ee 81 
+Sample size in hex: ea3, a30e0000
+Sending video sample with size: 3747 to 2NeITDGQMr
+Packetizer: 3747
+NALU Size: 3743, 9f0e0000, 9f0e0000
+NALU Type: 1
+NALU Bytes: 41 9A 20 57 97 F4 EE 81 17 3F 
+Read Sample size: 6185
+Read Sample bytes: 00 00 18 25 41 9a 40 57 dd af 74 d5 
+Sample Time: 3240000
+Sample bytes: fc fc b9 64 d7 46 dd 0a d3 cd aa 8c 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fd c3 93 a0 07 ec da a8 7e fc f9 
+Sample Time: 3260000
+Sample bytes: fc fd c3 93 a0 07 ec da a8 7e fc f9 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc 9f 4f df 30 89 84 59 db 5f eb 
+Sample Time: 3266634
+Sample bytes: 00 00 18 25 41 9a 40 57 dd af 74 d5 
+Sample size in hex: 1829, 29180000
+Sending video sample with size: 6185 to 2NeITDGQMr
+Packetizer: 6185
+NALU Size: 6181, 25180000, 25180000
+NALU Type: 1
+NALU Bytes: 41 9A 40 57 DD AF 74 D5 7A 16 
+Read Sample size: 3476
+Read Sample bytes: 00 00 0d 90 41 9a 60 47 fa d4 21 22 
+Sample Time: 3280000
+Sample bytes: fc fc 9f 4f df 30 89 84 59 db 5f eb 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc b4 4d 88 ca f1 6c 4c d7 fc ad 
+Sample Time: 3299967
+Sample bytes: 00 00 0d 90 41 9a 60 47 fa d4 21 22 
+Sample size in hex: d94, 940d0000
+Sending video sample with size: 3476 to 2NeITDGQMr
+Packetizer: 3476
+NALU Size: 3472, 900d0000, 900d0000
+NALU Type: 1
+NALU Bytes: 41 9A 60 47 FA D4 21 22 F2 3F 
+Read Sample size: 6601
+Read Sample bytes: 00 00 19 c5 41 9a 80 47 4f 22 1e e1 
+Sample Time: 3300000
+Sample bytes: fc fc b4 4d 88 ca f1 6c 4c d7 fc ad 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc fc 93 5c c2 03 0f 81 64 36 35 58 
+Sample Time: 3320000
+Sample bytes: fc fc 93 5c c2 03 0f 81 64 36 35 58 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc 7c ad 84 62 5b f6 88 1d 8f 0f ad 
+Sample Time: 3333300
+Sample bytes: 00 00 19 c5 41 9a 80 47 4f 22 1e e1 
+Sample size in hex: 19c9, c9190000
+Sending video sample with size: 6601 to 2NeITDGQMr
+Packetizer: 6601
+NALU Size: 6597, c5190000, c5190000
+NALU Type: 1
+NALU Bytes: 41 9A 80 47 4F 22 1E E1 0F 42 
+Read Sample size: 3414
+Read Sample bytes: 00 00 0d 52 41 9a a0 df 92 22 42 1d 
+Sample Time: 3340000
+Sample bytes: fc 7c ad 84 62 5b f6 88 1d 8f 0f ad 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to 2NeITDGQMr
+Read Sample size: 160
+Read Sample bytes: fc 7c ae 4a 98 e6 54 68 10 bd f2 86 
+State: disconnected
+State: closed
+Sample Time: 3360000
+Sample bytes: fc 7c ae 4a 98 e6 54 68 10 bd f2 86 
+Sample size in hex: a0, a0000000
+Read Sample size: 160
+Read Sample bytes: fc d1 e9 73 90 61 16 b5 d6 f3 22 5e 
+Sample Time: 0
+Sample bytes: 
+Sample size in hex: 0, 0
+Read Sample size: 85306
+Read Sample bytes: 00 00 00 19 67 42 c0 1f d9 80 50 05 

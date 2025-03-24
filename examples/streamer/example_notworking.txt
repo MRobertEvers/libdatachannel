@@ -1,0 +1,1010 @@
+Read Sample size: 4176
+Read Sample bytes: 00 00 10 4c 41 9a a0 47 75 b3 cc bd 
+Sample Time: 1740000
+Sample bytes: fc 4a c6 69 4d d2 9d 5f 98 ac 63 50 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc 4c eb 1d 15 27 6c 9c 6d a5 a6 7b 
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 80 7F 19 19 
+Sample Time: 309000
+Sending
+NALU Size: 1020, fc030000, fc030000
+NALU Type: 1
+NALU Bytes: 41 9A 80 7F 19 19 8C A3 73 14 
+Sample Time: 1760000
+Sample bytes: fc 4c eb 1d 15 27 6c 9c 6d a5 a6 7b 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fd e2 7b 79 21 65 54 79 b7 e2 2b 
+Sample Time: 1766649
+Sample bytes: 00 00 10 4c 41 9a a0 47 75 b3 cc bd 
+Sample size Packetizerin hex: 1050, 50100000
+Sending video sample with size: 4176 to QZHGkSoPCF
+NALU Size: 0, 0, 0
+NALU Type: 16
+NALU Bytes: 
+Read Sample size: 6849
+Read Sample bytes: 00 00 1a bd 41 9a c0 df ef a4 92 7d 
+Sample Time: 1780000
+Sample bytes: fc fd e2 7b 79 21 65 54 79 b7 e2 2b 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fd e3 32 28 83 23 b3 c7 19 d6 5d 
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 90 7E C6 58 
+Sample Time: 312000
+Sending
+NALU Size: 1020, fc030000, fc030000
+NALU Type: 1
+NALU Bytes: 41 9A 90 7E C6 58 D9 52 2C 5A 
+Sample Time: 1799982
+Sample bytes: 00 00 1a bd 41 9a c0 df ef a4 92 7d 
+Sample size in hex: 1ac1, c11a0000
+Sending video sample with size: 6849 to QZHGkSoPCF
+NALU Size: 0, 0, 0
+NALU Type: 24
+NALU Bytes: 
+Read Sample size: 2912
+Read Sample bytes: 00 00 0b 5c 41 9a e0 47 27 77 ee e9 
+Sample Time: 1800000
+Sample bytes: fc fd e3 32 28 83 23 b3 c7 19 d6 5d 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fc e0 17 e3 98 0f 08 c0 55 6c ae 
+Received: 25 bytes
+Received sample of length: 25 type: 7
+Sample bytes: 00 00 00 01 67 42 40 1F A6 80 
+Sample Time: 312000
+Sending
+NALU Size: 21, 15000000, 15000000
+NALU Type: 7
+NALU Bytes: 67 42 40 1F A6 80 50 05 BB 01 
+Received: 8 bytes
+Received sample of length: 8 type: 8
+Sample bytes: 00 00 00 01 68 CE 38 80 
+Sample Time: 312000
+Sending
+NALU Size: 4, 4000000, 4000000
+NALU Type: 8
+NALU Bytes: 68 CE 38 80 
+Received: 1024 bytes
+Received sample of length: 1024 type: 5
+Sample bytes: 00 00 00 01 65 88 80 00 61 08 
+Sample Time: 315000
+Sending
+NALU Size: 1020, fc030000, fc030000
+NALU Type: 5
+NALU Bytes: 65 88 80 00 61 08 4E 1D 8C 20 
+Sample Time: 1820000
+Sample bytes: fc fc e0 17 e3 98 0f 08 c0 55 6c ae 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fd e1 bf 6e 60 34 b5 14 81 68 33 
+Sample Time: 1833315
+Sample bytes: 00 00 0b 5c 41 9a e0 47 27 77 ee e9 
+Sample size in hex: b60, 600b0000
+Sending video sample with size: 2912 to QZHGkSoPCF
+NALU Size: 0, 0, 0
+NALU Type: 1
+NALU Bytes: 
+Read Sample size: 5037
+Read Sample bytes: 00 00 13 a9 41 9b 00 47 ea ef 67 5e 
+Sample Time: 1840000
+Sample bytes: fc fd e1 bf 6e 60 34 b5 14 81 68 33 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fd da ae 94 59 f9 57 27 1b a7 df 
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 10 7F 04 10 
+Sample Time: 318000
+Sending
+NALU Size: 1020, fc030000, fc030000
+NALU Type: 1
+NALU Bytes: 41 9A 10 7F 04 10 5D AE 9D 70 
+Sample Time: 1860000
+Sample bytes: fc fd da ae 94 59 f9 57 27 1b a7 df 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fd c6 f2 1e 9d 6a 60 7a 2a fd 6d 
+Sample Time: 1866648
+Sample bytes: 00 00 13 a9 41 9b 00 47 ea ef 67 5e 
+Sample size in hex: 13ad, ad130000
+Sending video sample with size: 5037 to QZHGkSoPCF
+NALU Size: 0, 0, 0
+NALU Type: 27
+NALU Bytes: 
+Read Sample size: 3136
+Read Sample bytes: 00 00 0c 3c 41 9b 20 47 7e 43 9e 3d 
+Sample Time: 1880000
+Sample bytes: fc fd c6 f2 1e 9d 6a 60 7a 2a fd 6d 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fd dd 37 9e 29 43 82 a5 68 40 e2 
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 20 7F 19 4C 
+Sample Time: 321000
+Sending
+NALU Size: 1020, fc030000, fc030000
+NALU Type: 1
+NALU Bytes: 41 9A 20 7F 19 4C F5 09 18 BA 
+Sample Time: 1899981
+Sample bytes: 00 00 0c 3c 41 9b 20 47 7e 43 9e 3d 
+Sample size in hex: c40, 400c0000
+Sending video sample with size: 3136 to QZHGkSoPCF
+NALU Size: 0, 0, 0
+NALU Type: 24
+NALU Bytes: 
+Read Sample size: 6077
+Read Sample bytes: 00 00 17 b9 41 9b 40 47 7e 08 4e fa 
+Sample Time: 1900000
+Sample bytes: fc fd dd 37 9e 29 43 82 a5 68 40 e2 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fd dd 41 bd af b8 78 95 e7 85 ad 
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 30 27 C6 42 
+Sample Time: 324000
+Sending
+NALU Size: 1020, fc030000, fc030000
+NALU Type: 1
+NALU Bytes: 41 9A 30 27 C6 42 57 D4 BF B2 
+Sample Time: 1920000
+Sample bytes: fc fd dd 41 bd af b8 78 95 e7 85 ad 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fd dc 55 bd e4 7c e5 be 97 ba b1 
+Sample Time: 1933314
+Sample bytes: 00 00 17 b9 41 9b 40 47 7e 08 4e fa 
+Sample size in hex: 17bd, bd170000
+Sending video sample with size: 6077 to QZHGkSoPCF
+NALU Size: 0, 0, 0
+NALU Type: 16
+NALU Bytes: 
+Read Sample size: 4066
+Read Sample bytes: 00 00 0f de 41 9b 60 47 f9 3c d6 bc 
+Sample Time: 1940000
+Sample bytes: fc fd dc 55 bd e4 7c e5 be 97 ba b1 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fd dd 2f a4 43 17 f3 45 09 17 ab 
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 40 26 E9 94 
+Sample Time: 327000
+Sending
+NALU Size: 1020, fc030000, fc030000
+NALU Type: 1
+NALU Bytes: 41 9A 40 26 E9 94 64 42 80 14 
+Sample Time: 1960000
+Sample bytes: fc fd dd 2f a4 43 17 f3 45 09 17 ab 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fd da 73 78 3a 1e 62 cd 49 30 49 
+Sample Time: 1966647
+Sample bytes: 00 00 0f de 41 9b 60 47 f9 3c d6 bc 
+Sample size in hex: fe2, e20f0000
+Sending video sample with size: 4066 to QZHGkSoPCF
+NALU Size: 0, 0, 0
+NALU Type: 23
+NALU Bytes: 
+Read Sample size: 21895
+Read Sample bytes: 00 00 55 83 41 9b 80 9f 8c 82 2b 57 
+Sample Time: 1980000
+Sample bytes: fc fd da 73 78 3a 1e 62 cd 49 30 49 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fc b9 61 9f d5 06 82 94 a3 6a b5 
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 50 7F 19 02 
+Sample Time: 330000
+Sending
+NALU Size: 1020, fc030000, fc030000
+NALU Type: 1
+NALU Bytes: 41 9A 50 7F 19 02 56 A4 FA B8 
+Sample Time: 1999980
+Sample bytes: 00 00 55 83 41 9b 80 9f 8c 82 2b 57 
+Sample size in hex: 5587, 87550000
+Sending video sample with size: 21895 to QZHGkSoPCF
+NALU Size: 0, 0, 0
+NALU Type: 15
+NALU Bytes: 
+Read Sample size: 5451
+Read Sample bytes: 00 00 15 47 41 9b a0 dd f8 24 28 eb 
+Sample Time: 2000000
+Sample bytes: fc fc b9 61 9f d5 06 82 94 a3 6a b5 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fc b9 4d a8 10 a9 11 56 0d 31 26 
+Message from QZHGkSoPCF received: Pong 1002
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 60 27 A0 A4 
+Sample Time: 333000
+Sending
+NALU Size: 1020, fc030000, fc030000
+NALU Type: 1
+NALU Bytes: 41 9A 60 27 A0 A4 20 72 77 61 
+Sample Time: 2020000
+Sample bytes: fc fc b9 4d a8 10 a9 11 56 0d 31 26 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fd dc 5a 92 17 ea 5e 3c c9 b7 91 
+Sample Time: 2033313
+Sample bytes: 00 00 15 47 41 9b a0 dd f8 24 28 eb 
+Sample size in hex: 154b, 4b150000
+Sending video sample with size: 5451 to QZHGkSoPCF
+NALU Size: 0, 0, 0
+NALU Type: 9
+NALU Bytes: 
+Read Sample size: 8261
+Read Sample bytes: 00 00 20 41 41 9b c0 dd f8 48 b3 cd 
+Sample Time: 2040000
+Sample bytes: fc fd dc 5a 92 17 ea 5e 3c c9 b7 91 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fd e1 b7 76 16 50 ed 1e e7 fe d7 
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 70 7F 19 2C 
+Sample Time: 336000
+Sending
+NALU Size: 1020, fc030000, fc030000
+NALU Type: 1
+NALU Bytes: 41 9A 70 7F 19 2C 98 CE 8E 04 
+Sample Time: 2060000
+Sample bytes: fc fd e1 b7 76 16 50 ed 1e e7 fe d7 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc ff da a2 41 00 96 fb d0 d5 fb ef 
+Sample Time: 2066646
+Sample bytes: 00 00 20 41 41 9b c0 dd f8 48 b3 cd 
+Sample size in hex: 2045, 45200000
+Sending video sample with size: 8261 to QZHGkSoPCF
+NALU Size: 0, 0, 0
+NALU Type: 8
+NALU Bytes: 
+Read Sample size: 6340
+Read Sample bytes: 00 00 18 c0 41 9b e0 47 fb dc 9f 5e 
+Sample Time: 2080000
+Sample bytes: fc ff da a2 41 00 96 fb d0 d5 fb ef 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fb 06 57 1d 60 c8 8a 24 e3 98 94 
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 80 26 93 64 
+Sample Time: 339000
+Sending
+NALU Size: 1020, fc030000, fc030000
+NALU Type: 1
+NALU Bytes: 41 9A 80 26 93 64 19 42 81 4F 
+Sample Time: 2099979
+Sample bytes: 00 00 18 c0 41 9b e0 47 fb dc 9f 5e 
+Sample size in hex: 18c4, c4180000
+Sending video sample with size: 6340 to QZHGkSoPCF
+NALU Size: 0, 0, 0
+NALU Type: 22
+NALU Bytes: 
+Read Sample size: 7594
+Read Sample bytes: 00 00 1d a6 41 9a 00 df e2 ed da 97 
+Sample Time: 2100000
+Sample bytes: fc fb 06 57 1d 60 c8 8a 24 e3 98 94 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fd da 94 c8 44 2a 14 24 71 11 7f 
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 90 7F 19 1F 
+Sample Time: 342000
+Sending
+NALU Size: 1020, fc030000, fc030000
+NALU Type: 1
+NALU Bytes: 41 9A 90 7F 19 1F D9 A7 CB E2 
+Sample Time: 2120000
+Sample bytes: fc fd da 94 c8 44 2a 14 24 71 11 7f 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fd bc cf 9d 45 54 3c 1e 5b 4d a4 
+Sample Time: 2133312
+Sample bytes: 00 00 1d a6 41 9a 00 df e2 ed da 97 
+Sample size in hex: 1daa, aa1d0000
+Sending video sample with size: 7594 to QZHGkSoPCF
+NALU Size: 0, 0, 0
+NALU Type: 5
+NALU Bytes: 
+Read Sample size: 5431
+Read Sample bytes: 00 00 15 33 41 9a 20 47 0c 77 f4 8a 
+Sample Time: 2140000
+Sample bytes: fc fd bc cf 9d 45 54 3c 1e 5b 4d a4 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fc b7 b1 d0 67 bd a1 ef dc 89 3c 
+Received: 25 bytes
+Received sample of length: 25 type: 7
+Sample bytes: 00 00 00 01 67 42 40 1F A6 80 
+Sample Time: 342000
+Sending
+NALU Size: 21, 15000000, 15000000
+NALU Type: 7
+NALU Bytes: 67 42 40 1F A6 80 50 05 BB 01 
+Received: 8 bytes
+Received sample of length: 8 type: 8
+Sample bytes: 00 00 00 01 68 CE 38 80 
+Sample Time: 342000
+Sending
+NALU Size: 4, 4000000, 4000000
+NALU Type: 8
+NALU Bytes: 68 CE 38 80 
+Received: 1024 bytes
+Received sample of length: 1024 type: 5
+Sample bytes: 00 00 00 01 65 88 80 00 61 10 
+Sample Time: 345000
+Sending
+NALU Size: 1020, fc030000, fc030000
+NALU Type: 5
+NALU Bytes: 65 88 80 00 61 10 4D C3 C0 04 
+Sample Time: 2160000
+Sample bytes: fc fc b7 b1 d0 67 bd a1 ef dc 89 3c 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fd bc a0 9f 16 54 41 0a 86 de 94 
+Sample Time: 2166645
+Sample bytes: 00 00 15 33 41 9a 20 47 0c 77 f4 8a 
+Sample size in hex: 1537, 37150000
+Sending video sample with size: 5431 to QZHGkSoPCF
+NALU Size: 0, 0, 0
+NALU Type: 18
+NALU Bytes: 
+Read Sample size: 7697
+Read Sample bytes: 00 00 1e 0d 41 9a 40 dd fa d7 24 88 
+Sample Time: 2180000
+Sample bytes: fc fd bc a0 9f 16 54 41 0a 86 de 94 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fd de b4 ee d9 a1 63 b9 dc 1c 38 
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 10 27 C6 C4 
+Sample Time: 348000
+Sending
+NALU Size: 1020, fc030000, fc030000
+NALU Type: 1
+NALU Bytes: 41 9A 10 27 C6 C4 2A 30 24 EE 
+Sample Time: 2199978
+Sample bytes: 00 00 1e 0d 41 9a 40 dd fa d7 24 88 
+Sample size in hex: 1e11, 111e0000
+Sending video sample with size: 7697 to QZHGkSoPCF
+NALU Size: 0, 0, 0
+NALU Type: 30
+NALU Bytes: 
+Read Sample size: 4571
+Read Sample bytes: 00 00 11 d7 41 9a 60 dd 49 82 1c f1 
+Sample Time: 2200000
+Sample bytes: fc fd de b4 ee d9 a1 63 b9 dc 1c 38 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fc ee 99 ef 6a ef 2c cd 4d 91 85 
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 20 7E C6 46 
+Sample Time: 351000
+Sending
+NALU Size: 1020, fc030000, fc030000
+NALU Type: 1
+NALU Bytes: 41 9A 20 7E C6 46 2C EB 0E 34 
+Sample Time: 2220000
+Sample bytes: fc fc ee 99 ef 6a ef 2c cd 4d 91 85 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fc b9 0f e9 5c 54 54 e8 30 3b 7f 
+Sample Time: 2233311
+Sample bytes: 00 00 11 d7 41 9a 60 dd 49 82 1c f1 
+Sample size in hex: 11db, db110000
+Sending video sample with size: 4571 to QZHGkSoPCF
+NALU Size: 0, 0, 0
+NALU Type: 2
+NALU Bytes: 
+Read Sample size: 7504
+Read Sample bytes: 00 00 1d 4c 41 9a 80 df eb 55 5a bf 
+Sample Time: 2240000
+Sample bytes: fc fc b9 0f e9 5c 54 54 e8 30 3b 7f 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc 7c ae 3c ab 7a f0 1c 69 0c de 20 
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 30 27 C6 71 
+Sample Time: 354000
+Sending
+NALU Size: 1020, fc030000, fc030000
+NALU Type: 1
+NALU Bytes: 41 9A 30 27 C6 71 C8 95 33 D0 
+Sample Time: 2260000
+Sample bytes: fc 7c ae 3c ab 7a f0 1c 69 0c de 20 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc d2 0e bd a3 3a c4 3c 80 ce a6 b1 
+Sample Time: 2266644
+Sample bytes: 00 00 1d 4c 41 9a 80 df eb 55 5a bf 
+Sample size in hex: 1d50, 501d0000
+Sending video sample with size: 7504 to QZHGkSoPCF
+NALU Size: 0, 0, 0
+NALU Type: 26
+NALU Bytes: 
+Read Sample size: 4162
+Read Sample bytes: 00 00 10 3e 41 9a a0 47 7e 09 4a 95 
+Sample Time: 2280000
+Sample bytes: fc d2 0e bd a3 3a c4 3c 80 ce a6 b1 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc d3 30 1b 13 bf 5b c8 1b e3 09 b7 
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 40 27 B1 90 
+Sample Time: 357000
+Sending
+NALU Size: 1020, fc030000, fc030000
+NALU Type: 1
+NALU Bytes: 41 9A 40 27 B1 90 C8 97 A5 44 
+Sample Time: 2299977
+Sample bytes: 00 00 10 3e 41 9a a0 47 7e 09 4a 95 
+Sample size in hex: 1042, 42100000
+Sending video sample with size: 4162 to QZHGkSoPCF
+NALU Size: 0, 0, 0
+NALU Type: 18
+NALU Bytes: 
+Read Sample size: 6943
+Read Sample bytes: 00 00 1b 1b 41 9a c0 df 7c 8b e9 5b 
+Sample Time: 2300000
+Sample bytes: fc d3 30 1b 13 bf 5b c8 1b e3 09 b7 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fc b9 64 ce 23 57 a9 f8 95 00 ee 
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 50 7F 19 60 
+Sample Time: 360000
+Sending
+NALU Size: 1020, fc030000, fc030000
+NALU Type: 1
+NALU Bytes: 41 9A 50 7F 19 60 C2 0C EB E6 
+Sample Time: 2320000
+Sample bytes: fc fc b9 64 ce 23 57 a9 f8 95 00 ee 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fc ba 5e a4 c5 ed f6 6a fd 1e 53 
+Sample Time: 2333310
+Sample bytes: 00 00 1b 1b 41 9a c0 df 7c 8b e9 5b 
+Sample size in hex: 1b1f, 1f1b0000
+Sending video sample with size: 6943 to QZHGkSoPCF
+NALU Size: 0, 0, 0
+NALU Type: 29
+NALU Bytes: 
+Read Sample size: 3669
+Read Sample bytes: 00 00 0e 51 41 9a e0 47 0b 5f 3f 48 
+Sample Time: 2340000
+Sample bytes: fc fc ba 5e a4 c5 ed f6 6a fd 1e 53 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fc b8 d5 f6 be ff 95 15 10 0b 24 
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 60 7F 19 A6 
+Sample Time: 363000
+Sending
+NALU Size: 1020, fc030000, fc030000
+NALU Type: 1
+NALU Bytes: 41 9A 60 7F 19 A6 58 3F 99 B0 
+Sample Time: 2360000
+Sample bytes: fc fc b8 d5 f6 be ff 95 15 10 0b 24 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fd bd d0 cb 8a 3c 47 1c ee 36 60 
+Sample Time: 2366643
+Sample bytes: 00 00 0e 51 41 9a e0 47 0b 5f 3f 48 
+Sample size in hex: e55, 550e0000
+Sending video sample with size: 3669 to QZHGkSoPCF
+NALU Size: 0, 0, 0
+NALU Type: 5
+NALU Bytes: 
+Read Sample size: 6220
+Read Sample bytes: 00 00 18 48 41 9b 00 dd f8 9c 81 f9 
+Sample Time: 2380000
+Sample bytes: fc fd bd d0 cb 8a 3c 47 1c ee 36 60 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fc ee 4f a5 0c 16 21 21 d1 58 f8 
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 70 7A BA 19 
+Sample Time: 366000
+Sending
+NALU Size: 1020, fc030000, fc030000
+NALU Type: 1
+NALU Bytes: 41 9A 70 7A BA 19 0C BA 5F B3 
+Sample Time: 2399976
+Sample bytes: 00 00 18 48 41 9b 00 dd f8 9c 81 f9 
+Sample size in hex: 184c, 4c180000
+Sending video sample with size: 6220 to QZHGkSoPCF
+NALU Size: 0, 0, 0
+NALU Type: 28
+NALU Bytes: 
+Read Sample size: 4214
+Read Sample bytes: 00 00 10 72 41 9b 20 47 fa d5 fa 3a 
+Sample Time: 2400000
+Sample bytes: fc fc ee 4f a5 0c 16 21 21 d1 58 f8 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fc b2 08 ec 58 39 c3 6a 2f b2 a7 
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 80 26 5F A4 
+Sample Time: 369000
+Sending
+NALU Size: 1020, fc030000, fc030000
+NALU Type: 1
+NALU Bytes: 41 9A 80 26 5F A4 E5 68 64 21 
+Sample Time: 2420000
+Sample bytes: fc fc b2 08 ec 58 39 c3 6a 2f b2 a7 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc ff da 92 f3 c3 78 97 de e0 03 a6 
+Sample Time: 2433309
+Sample bytes: 00 00 10 72 41 9b 20 47 fa d5 fa 3a 
+Sample size in hex: 1076, 76100000
+Sending video sample with size: 4214 to QZHGkSoPCF
+NALU Size: 0, 0, 0
+NALU Type: 23
+NALU Bytes: 
+Read Sample size: 6627
+Read Sample bytes: 00 00 19 df 41 9b 40 47 59 28 8d 37 
+Sample Time: 2440000
+Sample bytes: fc ff da 92 f3 c3 78 97 de e0 03 a6 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc ff d9 b6 49 3b c9 0b 08 1b 4f 9a 
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 90 7B DC 65 
+Sample Time: 372000
+Sending
+NALU Size: 1020, fc030000, fc030000
+NALU Type: 1
+NALU Bytes: 41 9A 90 7B DC 65 81 01 F5 AB 
+Sample Time: 2460000
+Sample bytes: fc ff d9 b6 49 3b c9 0b 08 1b 4f 9a 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fa ba d6 2b fd 91 d7 36 3b 25 19 
+Sample Time: 2466642
+Sample bytes: 00 00 19 df 41 9b 40 47 59 28 8d 37 
+Sample size in hex: 19e3, e3190000
+Sending video sample with size: 6627 to QZHGkSoPCF
+NALU Size: 0, 0, 0
+NALU Type: 21
+NALU Bytes: 
+Read Sample size: 11237
+Read Sample bytes: 00 00 2b e1 41 9b 60 dd 56 4b af 2f 
+Sample Time: 2480000
+Sample bytes: fc fa ba d6 2b fd 91 d7 36 3b 25 19 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fc b2 2b 95 4e c0 d8 99 50 47 36 
+Received: 25 bytes
+Received sample of length: 25 type: 7
+Sample bytes: 00 00 00 01 67 42 40 1F A6 80 
+Sample Time: 372000
+Sending
+NALU Size: 21, 15000000, 15000000
+NALU Type: 7
+NALU Bytes: 67 42 40 1F A6 80 50 05 BB 01 
+Received: 8 bytes
+Received sample of length: 8 type: 8
+Sample bytes: 00 00 00 01 68 CE 38 80 
+Sample Time: 372000
+Sending
+NALU Size: 4, 4000000, 4000000
+NALU Type: 8
+NALU Bytes: 68 CE 38 80 
+Received: 1024 bytes
+Received sample of length: 1024 type: 5
+Sample bytes: 00 00 00 01 65 88 80 00 61 18 
+Sample Time: 375000
+Sending
+NALU Size: 1020, fc030000, fc030000
+NALU Type: 5
+NALU Bytes: 65 88 80 00 61 18 4E 0B A4 04 
+Sample Time: 2499975
+Sample bytes: 00 00 2b e1 41 9b 60 dd 56 4b af 2f 
+Sample size in hex: 2be5, e52b0000
+Sending video sample with size: 11237 to QZHGkSoPCF
+NALU Size: 0, 0, 0
+NALU Type: 18
+NALU Bytes: 
+Read Sample size: 4195
+Read Sample bytes: 00 00 10 5f 41 9b 80 47 7e 08 8b 97 
+Sample Time: 2500000
+Sample bytes: fc fc b2 2b 95 4e c0 d8 99 50 47 36 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fc b2 2b 94 67 f7 04 3e b1 d0 bb 
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 10 27 A0 57 
+Sample Time: 378000
+Sending
+NALU Size: 1020, fc030000, fc030000
+NALU Type: 1
+NALU Bytes: 41 9A 10 27 A0 57 0A A9 09 DA 
+Sample Time: 2520000
+Sample bytes: fc fc b2 2b 94 67 f7 04 3e b1 d0 bb 
+Sample size in hex: a0, a0000000
+Sending audio sample with size: 160 to QZHGkSoPCF
+Read Sample size: 160
+Read Sample bytes: fc fc b1 f1 bb 70 b2 d6 01 4c d4 5d 
+State: disconnected
+State: closed
+Sample Time: 2533308
+Sample bytes: 00 00 10 5f 41 9b 80 47 7e 08 8b 97 
+Sample size in hex: 1063, 63100000
+Read Sample size: 3246
+Read Sample bytes: 00 00 0c aa 41 9b a0 47 f9 3c dd ac 
+Sample Time: 0
+Sample bytes: 
+Sample size in hex: 0, 0
+Read Sample size: 160
+Read Sample bytes: fc 72 9e 1d 22 0e 9a 48 87 e5 75 ce 
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 20 27 B0 84 
+Sample Time: 381000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 30 27 C6 47 
+Sample Time: 384000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 40 7F 19 3A 
+Sample Time: 387000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 50 7E C6 4C 
+Sample Time: 390000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 60 7F 05 70 
+Sample Time: 393000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 70 7E C6 47 
+Sample Time: 396000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 80 7B DA 0A 
+Sample Time: 399000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 90 7E C6 42 
+Sample Time: 402000
+Received: 25 bytes
+Received sample of length: 25 type: 7
+Sample bytes: 00 00 00 01 67 42 40 1F A6 80 
+Sample Time: 402000
+Received: 8 bytes
+Received sample of length: 8 type: 8
+Sample bytes: 00 00 00 01 68 CE 38 80 
+Sample Time: 402000
+Received: 1024 bytes
+Received sample of length: 1024 type: 5
+Sample bytes: 00 00 00 01 65 88 80 00 61 20 
+Sample Time: 405000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 10 7E 86 41 
+Sample Time: 408000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 20 7D 42 90 
+Sample Time: 411000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 30 7E 86 46 
+Sample Time: 414000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 40 5E C6 5B 
+Sample Time: 417000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 50 5F 19 03 
+Sample Time: 420000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 60 FC 64 12 
+Sample Time: 423000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 70 5A C0 FA 
+Sample Time: 426000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 80 ED 39 06 
+Sample Time: 429000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 91 BC 0B 00 
+Sample Time: 432000
+Received: 25 bytes
+Received sample of length: 25 type: 7
+Sample bytes: 00 00 00 01 67 42 40 1F A6 80 
+Sample Time: 432000
+Received: 8 bytes
+Received sample of length: 8 type: 8
+Sample bytes: 00 00 00 01 68 CE 38 80 
+Sample Time: 432000
+Received: 1024 bytes
+Received sample of length: 1024 type: 5
+Sample bytes: 00 00 00 01 65 88 80 00 61 28 
+Sample Time: 435000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 10 BC 7D 3A 
+Sample Time: 438000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 20 7B C4 81 
+Sample Time: 441000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 30 7F 19 02 
+Sample Time: 444000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 40 7F 19 0D 
+Sample Time: 447000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 50 7F 19 63 
+Sample Time: 450000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 60 7F 19 1A 
+Sample Time: 453000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 70 7F 19 02 
+Sample Time: 456000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 80 27 C6 47 
+Sample Time: 459000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 90 27 C2 90 
+Sample Time: 462000
+Received: 25 bytes
+Received sample of length: 25 type: 7
+Sample bytes: 00 00 00 01 67 42 40 1F A6 80 
+Sample Time: 462000
+Received: 8 bytes
+Received sample of length: 8 type: 8
+Sample bytes: 00 00 00 01 68 CE 38 80 
+Sample Time: 462000
+Received: 1024 bytes
+Received sample of length: 1024 type: 5
+Sample bytes: 00 00 00 01 65 88 80 00 61 30 
+Sample Time: 465000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 10 26 DD 46 
+Sample Time: 468000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 20 27 C6 45 
+Sample Time: 471000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 30 27 C6 42 
+Sample Time: 474000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 40 27 C6 43 
+Sample Time: 477000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 50 27 C6 53 
+Sample Time: 480000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 60 26 BB 19 
+Sample Time: 483000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 70 27 A1 91 
+Sample Time: 486000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 80 7E C6 65 
+Sample Time: 489000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 90 27 A1 98 
+Sample Time: 492000
+Received: 25 bytes
+Received sample of length: 25 type: 7
+Sample bytes: 00 00 00 01 67 42 40 1F A6 80 
+Sample Time: 492000
+Received: 8 bytes
+Received sample of length: 8 type: 8
+Sample bytes: 00 00 00 01 68 CE 38 80 
+Sample Time: 492000
+Received: 1024 bytes
+Received sample of length: 1024 type: 5
+Sample bytes: 00 00 00 01 65 88 80 00 61 38 
+Sample Time: 495000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 10 7F 0E CD 
+Sample Time: 498000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 20 27 C6 76 
+Sample Time: 501000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 30 27 C6 43 
+Sample Time: 504000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 40 26 FA 19 
+Sample Time: 507000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 50 26 9B 48 
+Sample Time: 510000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 60 7F 19 44 
+Sample Time: 513000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 70 27 C6 43 
+Sample Time: 516000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 80 7F 19 A0 
+Sample Time: 519000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 90 26 D5 B1 
+Sample Time: 522000
+Received: 25 bytes
+Received sample of length: 25 type: 7
+Sample bytes: 00 00 00 01 67 42 40 1F A6 80 
+Sample Time: 522000
+Received: 8 bytes
+Received sample of length: 8 type: 8
+Sample bytes: 00 00 00 01 68 CE 38 80 
+Sample Time: 522000
+Received: 1024 bytes
+Received sample of length: 1024 type: 5
+Sample bytes: 00 00 00 01 65 88 80 00 61 40 
+Sample Time: 525000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 10 7F 1B 02 
+Sample Time: 528000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 20 27 71 91 
+Sample Time: 531000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 30 27 C6 50 
+Sample Time: 534000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 40 27 51 92 
+Sample Time: 537000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 50 27 C2 90 
+Sample Time: 540000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 60 27 B1 91 
+Sample Time: 543000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 70 26 F4 C2 
+Sample Time: 546000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 80 7E C6 61 
+Sample Time: 549000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 90 27 C6 46 
+Sample Time: 552000
+Received: 25 bytes
+Received sample of length: 25 type: 7
+Sample bytes: 00 00 00 01 67 42 40 1F A6 80 
+Sample Time: 552000
+Received: 8 bytes
+Received sample of length: 8 type: 8
+Sample bytes: 00 00 00 01 68 CE 38 80 
+Sample Time: 552000
+Received: 1024 bytes
+Received sample of length: 1024 type: 5
+Sample bytes: 00 00 00 01 65 88 80 00 61 48 
+Sample Time: 555000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 10 7F 1B 44 
+Sample Time: 558000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 20 7F 19 4D 
+Sample Time: 561000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 30 27 C2 90 
+Sample Time: 564000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 40 7F 19 01 
+Sample Time: 567000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 50 7B A8 91 
+Sample Time: 570000
+Received: 1024 bytes
+Received sample of length: 1024 type: 1
+Sample bytes: 00 00 00 01 41 9A 60 7F 19 28 
+Sample Time: 573000

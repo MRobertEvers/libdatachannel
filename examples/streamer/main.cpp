@@ -20,6 +20,11 @@
 #include "helpers.hpp"
 #include "ArgParser.hpp"
 
+#include <arpa/inet.h>
+#include <sys/socket.h>
+#include <sys/time.h>
+#include <pthread.h>
+
 #include <chrono>
 
 using namespace rtc;
@@ -98,6 +103,141 @@ void wsOnMessage(json message, Configuration config, shared_ptr<WebSocket> ws) {
             pc->setRemoteDescription(description);
         }
     }
+}
+
+typedef void (on_sample_t)(char* buffer, int len) ;
+
+const char startcode[] = {0x00, 0x00, 0x00, 0x01};
+static
+void* receiver_thread(void* arg)
+
+{
+    on_sample_t* on_sample = (on_sample_t*)arg;
+	int sock = socket(AF_INET, SOCK_STREAM, 0);
+	if( sock < 0 )
+	{
+		printf("socket failed\n");
+		return NULL;
+	}
+
+	struct sockaddr_in addr = {0};
+	addr.sin_family = AF_INET;
+	addr.sin_port = htons(12346);
+    inet_pton(AF_INET, "127.0.0.1", &(addr.sin_addr.s_addr));
+
+    	// connect
+	if( connect(sock, (struct sockaddr*)&addr, sizeof(addr)) < 0 )
+	{
+		printf("connect failed\n");
+		return NULL;
+	}
+    printf("Connected!\n");
+
+    // if (bind(sock, (const struct sockaddr *)&addr, sizeof(addr)) < 0) {
+    //     perror("bind failed");
+    //     exit(EXIT_FAILURE);
+    // }
+    std::vector<char> data;
+    char buffer[1024 * 1024] = {0};
+    while (true)
+    {
+        // struct sockaddr_in client_addr = {0};
+   
+    
+    
+        int n = recv(sock, (char *)buffer, sizeof(buffer), 0);
+        // printf("ppack->u32Flag = %d\n", ppack->u32Flag);
+        if (n < 0) {
+            perror("recvfrom failed");
+            exit(EXIT_FAILURE);
+        }
+        printf("Received: %d bytes\n", n);
+        
+        if (memcmp(buffer, startcode, 4) == 0) {
+            printf("Startcode\n");
+            
+            if (data.size() > 0)
+            on_sample(data.data(), data.size());
+
+            data.clear();
+        }
+
+        data.insert(data.end(), buffer, buffer + n);
+    }
+
+
+    // close(sock);
+    pthread_exit(NULL);
+}
+
+int frame = 0;
+int started = 0;
+void* on_sample_cb(char* buffer, int len)
+{
+    // Process the received sample
+   
+    // the 5th byte is the NAL Header
+    // e.g. 0x00 0x00 0x00 0x01 <nal_header> 
+    // the zeros are the start code
+    int type = buffer[4] & 0x1F;
+    // if (type == 1 || type == 5)
+    //     frame += 1;
+    
+
+    printf("Received sample of length: %d type: %d\n", len, type);
+
+    printf("Sample bytes: ");
+ 
+    
+    int i = 0;
+    for (i = 0; i < len && i < 10; i++) {
+        printf("%02X ", (unsigned char)buffer[i]);
+    }
+    printf("\n");
+
+
+    // // Sample time in 90KHz clock
+    // int sampleTime = frame * 90000 / 30;
+    // printf("Sample Time: %lu\n", sampleTime);
+
+    
+    // printf("Sample size in hex: %lx, %lx\n", sample.size(), ntohl(sample.size()));
+
+    vector<ClientTrack> tracks{};
+    std::vector<std::byte> data((std::byte*) buffer, (std::byte*)buffer + len);
+
+  
+    // get all clients with Ready state
+    for(auto id_client: clients) {
+        auto id = id_client.first;
+        auto client = id_client.second;
+
+        
+        if (client->getState() == Client::State::Ready) {
+    
+            if (client->video.has_value()) {
+                printf("Sending\n");
+                if (!started && type != 7)
+                    continue;
+                started = 1;
+                if (type == 1 || type == 5)
+                    frame += 1;
+    // Sample time in 90KHz clock
+    int sampleTime = frame * 90000 / 30;
+    printf("Sample Time: %lu\n", sampleTime);
+                std::shared_ptr<ClientTrackData> td = client->video.value();
+
+                // if (type == 1 || type == 5)
+                    td->track->sendFrame(data, std::chrono::duration<double, std::micro>(sampleTime));
+                // else
+                //     td->track->send
+              
+            }
+
+        }
+    }
+
+    return NULL;
 }
 
 int main(int argc, char **argv) try {
@@ -186,6 +326,10 @@ int main(int argc, char **argv) try {
         this_thread::sleep_for(100ms);
     }
 
+    pthread_t t1 = {0};
+    int res = pthread_create(&t1, NULL, &receiver_thread, (void*)&on_sample_cb);
+
+
     while (true) {
         string id;
         cout << "Enter to exit" << endl;
@@ -211,7 +355,7 @@ shared_ptr<ClientTrackData> addVideo(const shared_ptr<PeerConnection> pc, const 
     // create RTP configuration
     auto rtpConfig = make_shared<RtpPacketizationConfig>(ssrc, cname, payloadType, H264RtpPacketizer::ClockRate);
     // create packetizer
-    auto packetizer = make_shared<H264RtpPacketizer>(NalUnit::Separator::Length, rtpConfig);
+    auto packetizer = make_shared<H264RtpPacketizer>(NalUnit::Separator::StartSequence, rtpConfig);
     // add RTCP SR handler
     auto srReporter = make_shared<RtcpSrReporter>(rtpConfig);
     packetizer->addToChain(srReporter);
@@ -288,20 +432,21 @@ shared_ptr<Client> createPeerConnection(const Configuration &config,
     client->video = addVideo(pc, 102, 1, "video-stream", "stream1", [id, wc = make_weak_ptr(client)]() {
         MainThread.dispatch([wc]() {
             if (auto c = wc.lock()) {
-                addToStream(c, true);
+                c->setState(Client::State::Ready);
+                // addToStream(c, true);
             }
         });
         cout << "Video from " << id << " opened" << endl;
     });
 
-    client->audio = addAudio(pc, 111, 2, "audio-stream", "stream1", [id, wc = make_weak_ptr(client)]() {
-        MainThread.dispatch([wc]() {
-            if (auto c = wc.lock()) {
-                addToStream(c, false);
-            }
-        });
-        cout << "Audio from " << id << " opened" << endl;
-    });
+    // client->audio = addAudio(pc, 111, 2, "audio-stream", "stream1", [id, wc = make_weak_ptr(client)]() {
+    //     MainThread.dispatch([wc]() {
+    //         if (auto c = wc.lock()) {
+    //             addToStream(c, false);
+    //         }
+    //     });
+    //     cout << "Audio from " << id << " opened" << endl;
+    // });
 
     auto dc = pc->createDataChannel("ping-pong");
     dc->onOpen([id, wdc = make_weak_ptr(dc)]() {
@@ -332,6 +477,20 @@ shared_ptr<Stream> createStream(const string h264Samples, const unsigned fps, co
     auto stream = make_shared<Stream>(video, audio);
     // set callback responsible for sample sending
     stream->onSample([ws = make_weak_ptr(stream)](Stream::StreamSourceType type, uint64_t sampleTime, rtc::binary sample) {
+        printf("Sample Time: %lu\n", sampleTime);
+        printf("Sample bytes: ");
+
+        int i = 0;
+        for (auto byte: sample) {
+            printf("%02x ", byte);
+            if (i++ > 10) {
+                break;
+            }
+        }
+        printf("\n");
+
+        printf("Sample size in hex: %lx, %lx\n", sample.size(), ntohl(sample.size()));
+
         vector<ClientTrack> tracks{};
         string streamType = type == Stream::StreamSourceType::Video ? "video" : "audio";
         // get track for given type

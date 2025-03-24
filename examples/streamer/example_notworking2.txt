@@ -1,0 +1,1010 @@
+NALU Type: 1
+NALU Bytes: 41 9A 10 5B 6D 20 A4 CC 25 49 
+Received: 21961 bytes
+Received sample of length: 21961 type: 1
+Sample bytes: 00 00 00 01 41 9A 20 5B 72 21 
+Sample Time: 669000
+Sending
+NALU Size: 21957, c5550000, c5550000
+NALU Type: 1
+NALU Bytes: 41 9A 20 5B 72 21 91 98 18 1F 
+Received: 31933 bytes
+Received sample of length: 31933 type: 1
+Sample bytes: 00 00 00 01 41 9A 30 7F 1B 02 
+Sample Time: 672000
+Sending
+NALU Size: 31929, b97c0000, b97c0000
+NALU Type: 1
+NALU Bytes: 41 9A 30 7F 1B 02 36 B5 B8 18 
+Received: 27329 bytes
+Received sample of length: 27329 type: 1
+Sample bytes: 00 00 00 01 41 9A 40 7F 0A 63 
+Sample Time: 675000
+Sending
+NALU Size: 27325, bd6a0000, bd6a0000
+NALU Type: 1
+NALU Bytes: 41 9A 40 7F 0A 63 A6 80 9D A0 
+Received: 25984 bytes
+Received sample of length: 25984 type: 1
+Sample bytes: 00 00 00 01 41 9A 50 7F 19 20 
+Sample Time: 678000
+Sending
+NALU Size: 25980, 7c650000, 7c650000
+NALU Type: 1
+NALU Bytes: 41 9A 50 7F 19 20 80 A4 44 54 
+Received: 25856 bytes
+Received sample of length: 25856 type: 1
+Sample bytes: 00 00 00 01 41 9A 60 7A 69 14 
+Sample Time: 681000
+Sending
+NALU Size: 25852, fc640000, fc640000
+NALU Type: 1
+NALU Bytes: 41 9A 60 7A 69 14 64 66 E2 88 
+Received: 37639 bytes
+Received sample of length: 37639 type: 1
+Sample bytes: 00 00 00 01 41 9A 70 27 C6 40 
+Sample Time: 684000
+Sending
+NALU Size: 37635, 3930000, 3930000
+NALU Type: 1
+NALU Bytes: 41 9A 70 27 C6 40 42 D3 FB ED 
+Received: 25978 bytes
+Received sample of length: 25978 type: 1
+Sample bytes: 00 00 00 01 41 9A 80 7F 19 1E 
+Sample Time: 687000
+Sending
+NALU Size: 25974, 76650000, 76650000
+NALU Type: 1
+NALU Bytes: 41 9A 80 7F 19 1E 10 34 68 E0 
+Received: 42019 bytes
+Received sample of length: 42019 type: 1
+Sample bytes: 00 00 00 01 41 9A 90 27 A1 90 
+Sample Time: 690000
+Sending
+NALU Size: 42015, 1fa40000, 1fa40000
+NALU Type: 1
+NALU Bytes: 41 9A 90 27 A1 90 F2 9C 59 60 
+Received: 25 bytes
+Received sample of length: 25 type: 7
+Sample bytes: 00 00 00 01 67 42 40 1F A6 80 
+Sample Time: 690000
+Sending
+NALU Size: 21, 15000000, 15000000
+NALU Type: 7
+NALU Bytes: 67 42 40 1F A6 80 50 05 BB 01 
+Received: 8 bytes
+Received sample of length: 8 type: 8
+Sample bytes: 00 00 00 01 68 CE 38 80 
+Sample Time: 690000
+Sending
+NALU Size: 4, 4000000, 4000000
+NALU Type: 8
+NALU Bytes: 68 CE 38 80 
+Received: 21004 bytes
+Received sample of length: 21004 type: 5
+Sample bytes: 00 00 00 01 65 88 80 00 22 5E 
+Sample Time: 693000
+Sending
+NALU Size: 21000, 8520000, 8520000
+NALU Type: 5
+NALU Bytes: 65 88 80 00 22 5E 13 97 F2 C7 
+Received: 28619 bytes
+Received sample of length: 28619 type: 1
+Sample bytes: 00 00 00 01 41 9A 10 7F 1B 08 
+Sample Time: 696000
+Sending
+NALU Size: 28615, c76f0000, c76f0000
+NALU Type: 1
+NALU Bytes: 41 9A 10 7F 1B 08 C3 C2 50 45 
+Received: 24585 bytes
+Received sample of length: 24585 type: 1
+Sample bytes: 00 00 00 01 41 9A 20 7F 19 03 
+Sample Time: 699000
+Sending
+NALU Size: 24581, 5600000, 5600000
+NALU Type: 1
+NALU Bytes: 41 9A 20 7F 19 03 DF 9D D2 0E 
+Received: 37571 bytes
+Received sample of length: 37571 type: 1
+Sample bytes: 00 00 00 01 41 9A 30 26 9D 46 
+Sample Time: 702000
+Sending
+NALU Size: 37567, bf920000, bf920000
+NALU Type: 1
+NALU Bytes: 41 9A 30 26 9D 46 40 B3 44 D7 
+Received: 35661 bytes
+Received sample of length: 35661 type: 1
+Sample bytes: 00 00 00 01 41 9A 40 27 C2 90 
+Sample Time: 705000
+Sending
+NALU Size: 35657, 498b0000, 498b0000
+NALU Type: 1
+NALU Bytes: 41 9A 40 27 C2 90 A2 38 4F 6A 
+Received: 35963 bytes
+Received sample of length: 35963 type: 1
+Sample bytes: 00 00 00 01 41 9A 50 27 C6 48 
+Sample Time: 708000
+Sending
+NALU Size: 35959, 778c0000, 778c0000
+NALU Type: 1
+NALU Bytes: 41 9A 50 27 C6 48 D6 06 08 3B 
+Received: 36558 bytes
+Received sample of length: 36558 type: 1
+Sample bytes: 00 00 00 01 41 9A 60 26 95 A1 
+Sample Time: 711000
+Sending
+NALU Size: 36554, ca8e0000, ca8e0000
+NALU Type: 1
+NALU Bytes: 41 9A 60 26 95 A1 91 6C 1B EE 
+Received: 36928 bytes
+Received sample of length: 36928 type: 1
+Sample bytes: 00 00 00 01 41 9A 70 26 A9 94 
+Sample Time: 714000
+Sending
+NALU Size: 36924, 3c900000, 3c900000
+NALU Type: 1
+NALU Bytes: 41 9A 70 26 A9 94 64 AA 68 D6 
+Received: 26324 bytes
+Received sample of length: 26324 type: 1
+Sample bytes: 00 00 00 01 41 9A 80 7F 19 0D 
+Sample Time: 717000
+Sending
+NALU Size: 26320, d0660000, d0660000
+NALU Type: 1
+NALU Bytes: 41 9A 80 7F 19 0D F4 0C FA A6 
+Received: 40674 bytes
+Received sample of length: 40674 type: 1
+Sample bytes: 00 00 00 01 41 9A 90 27 A1 B0 
+Sample Time: 720000
+Sending
+NALU Size: 40670, de9e0000, de9e0000
+NALU Type: 1
+NALU Bytes: 41 9A 90 27 A1 B0 5D 88 86 B6 
+Received: 25 bytes
+Received sample of length: 25 type: 7
+Sample bytes: 00 00 00 01 67 42 40 1F A6 80 
+Sample Time: 720000
+Sending
+NALU Size: 21, 15000000, 15000000
+NALU Type: 7
+NALU Bytes: 67 42 40 1F A6 80 50 05 BB 01 
+Received: 8 bytes
+Received sample of length: 8 type: 8
+Sample bytes: 00 00 00 01 68 CE 38 80 
+Sample Time: 720000
+Sending
+NALU Size: 4, 4000000, 4000000
+NALU Type: 8
+NALU Bytes: 68 CE 38 80 
+Received: 25320 bytes
+Received sample of length: 25320 type: 5
+Sample bytes: 00 00 00 01 65 88 80 00 22 60 
+Sample Time: 723000
+Sending
+NALU Size: 25316, e4620000, e4620000
+NALU Type: 5
+NALU Bytes: 65 88 80 00 22 60 2E D7 C4 21 
+Received: 28462 bytes
+Received sample of length: 28462 type: 1
+Sample bytes: 00 00 00 01 41 9A 10 7F 19 0C 
+Sample Time: 726000
+Sending
+NALU Size: 28458, 2a6f0000, 2a6f0000
+NALU Type: 1
+NALU Bytes: 41 9A 10 7F 19 0C 3A 22 E7 2A 
+Received: 27814 bytes
+Received sample of length: 27814 type: 1
+Sample bytes: 00 00 00 01 41 9A 20 7F 0A 53 
+Sample Time: 729000
+Sending
+NALU Size: 27810, a26c0000, a26c0000
+NALU Type: 1
+NALU Bytes: 41 9A 20 7F 0A 53 3A 00 93 CF 
+Received: 48927 bytes
+Received sample of length: 48927 type: 1
+Sample bytes: 00 00 00 01 41 9A 30 26 9C 91 
+Sample Time: 732000
+Sending
+NALU Size: 48923, 1bbf0000, 1bbf0000
+NALU Type: 1
+NALU Bytes: 41 9A 30 26 9C 91 B6 18 06 6C 
+Received: 24588 bytes
+Received sample of length: 24588 type: 1
+Sample bytes: 00 00 00 01 41 9A 40 7A 57 19 
+Sample Time: 735000
+Sending
+NALU Size: 24584, 8600000, 8600000
+NALU Type: 1
+NALU Bytes: 41 9A 40 7A 57 19 7A 81 03 DB 
+Received: 38754 bytes
+Received sample of length: 38754 type: 1
+Sample bytes: 00 00 00 01 41 9A 50 26 AD 10 
+Sample Time: 738000
+Sending
+NALU Size: 38750, 5e970000, 5e970000
+NALU Type: 1
+NALU Bytes: 41 9A 50 26 AD 10 65 C7 08 20 
+Received: 25995 bytes
+Received sample of length: 25995 type: 1
+Sample bytes: 00 00 00 01 41 9A 60 7F 19 08 
+Sample Time: 741000
+Sending
+NALU Size: 25991, 87650000, 87650000
+NALU Type: 1
+NALU Bytes: 41 9A 60 7F 19 08 D7 FD 98 DE 
+Received: 40094 bytes
+Received sample of length: 40094 type: 1
+Sample bytes: 00 00 00 01 41 9A 70 27 70 A5 
+Sample Time: 744000
+Sending
+NALU Size: 40090, 9a9c0000, 9a9c0000
+NALU Type: 1
+NALU Bytes: 41 9A 70 27 70 A5 B0 CF 80 B9 
+Received: 24396 bytes
+Received sample of length: 24396 type: 1
+Sample bytes: 00 00 00 01 41 9A 80 7B 57 19 
+Sample Time: 747000
+Sending
+NALU Size: 24392, 485f0000, 485f0000
+NALU Type: 1
+NALU Bytes: 41 9A 80 7B 57 19 81 6D B7 C9 
+Message from QZHGkSoPCF received: Pong 432643
+Received: 39322 bytes
+Received sample of length: 39322 type: 1
+Sample bytes: 00 00 00 01 41 9A 90 27 C6 4C 
+Sample Time: 750000
+Sending
+NALU Size: 39318, 96990000, 96990000
+NALU Type: 1
+NALU Bytes: 41 9A 90 27 C6 4C B0 2D 76 30 
+Received: 25 bytes
+Received sample of length: 25 type: 7
+Sample bytes: 00 00 00 01 67 42 40 1F A6 80 
+Sample Time: 750000
+Sending
+NALU Size: 21, 15000000, 15000000
+NALU Type: 7
+NALU Bytes: 67 42 40 1F A6 80 50 05 BB 01 
+Received: 8 bytes
+Received sample of length: 8 type: 8
+Sample bytes: 00 00 00 01 68 CE 38 80 
+Sample Time: 750000
+Sending
+NALU Size: 4, 4000000, 4000000
+NALU Type: 8
+NALU Bytes: 68 CE 38 80 
+Received: 19968 bytes
+Received sample of length: 19968 type: 5
+Sample bytes: 00 00 00 01 65 88 80 00 22 62 
+Sample Time: 753000
+Sending
+NALU Size: 19964, fc4d0000, fc4d0000
+NALU Type: 5
+NALU Bytes: 65 88 80 00 22 62 13 FC 19 C3 
+Received: 25289 bytes
+Received sample of length: 25289 type: 1
+Sample bytes: 00 00 00 01 41 9A 10 7A B2 21 
+Sample Time: 756000
+Sending
+NALU Size: 25285, c5620000, c5620000
+NALU Type: 1
+NALU Bytes: 41 9A 10 7A B2 21 B4 32 2E 34 
+Received: 33809 bytes
+Received sample of length: 33809 type: 1
+Sample bytes: 00 00 00 01 41 9A 20 27 C6 50 
+Sample Time: 759000
+Sending
+NALU Size: 33805, d840000, d840000
+NALU Type: 1
+NALU Bytes: 41 9A 20 27 C6 50 CA 71 11 A3 
+Received: 38709 bytes
+Received sample of length: 38709 type: 1
+Sample bytes: 00 00 00 01 41 9A 30 26 80 E0 
+Sample Time: 762000
+Sending
+NALU Size: 38705, 31970000, 31970000
+NALU Type: 1
+NALU Bytes: 41 9A 30 26 80 E0 06 90 38 81 
+Received: 22649 bytes
+Received sample of length: 22649 type: 1
+Sample bytes: 00 00 00 01 41 9A 40 27 71 B3 
+Sample Time: 765000
+Sending
+NALU Size: 22645, 75580000, 75580000
+NALU Type: 1
+NALU Bytes: 41 9A 40 27 71 B3 28 62 D0 30 
+Received: 57372 bytes
+Received sample of length: 57372 type: 1
+Sample bytes: 00 00 00 01 41 9A 50 27 4C 64 
+Sample Time: 768000
+Sending
+NALU Size: 57368, 18e00000, 18e00000
+NALU Type: 1
+NALU Bytes: 41 9A 50 27 4C 64 6E A1 8D AD 
+Received: 36514 bytes
+Received sample of length: 36514 type: 1
+Sample bytes: 00 00 00 01 41 9A 60 7E C6 49 
+Sample Time: 771000
+Sending
+NALU Size: 36510, 9e8e0000, 9e8e0000
+NALU Type: 1
+NALU Bytes: 41 9A 60 7E C6 49 1A 2E 90 CC 
+Received: 44217 bytes
+Received sample of length: 44217 type: 1
+Sample bytes: 00 00 00 01 41 9A 70 7F 19 0E 
+Sample Time: 774000
+Sending
+NALU Size: 44213, b5ac0000, b5ac0000
+NALU Type: 1
+NALU Bytes: 41 9A 70 7F 19 0E 6B DD 6B C1 
+Received: 40157 bytes
+Received sample of length: 40157 type: 1
+Sample bytes: 00 00 00 01 41 9A 80 7F 19 42 
+Sample Time: 777000
+Sending
+NALU Size: 40153, d99c0000, d99c0000
+NALU Type: 1
+NALU Bytes: 41 9A 80 7F 19 42 19 37 33 4B 
+Received: 27140 bytes
+Received sample of length: 27140 type: 1
+Sample bytes: 00 00 00 01 41 9A 90 5E C6 56 
+Sample Time: 780000
+Sending
+NALU Size: 27136, 6a0000, 6a0000
+NALU Type: 1
+NALU Bytes: 41 9A 90 5E C6 56 39 12 23 DF 
+Received: 25 bytes
+Received sample of length: 25 type: 7
+Sample bytes: 00 00 00 01 67 42 40 1F A6 80 
+Sample Time: 780000
+Sending
+NALU Size: 21, 15000000, 15000000
+NALU Type: 7
+NALU Bytes: 67 42 40 1F A6 80 50 05 BB 01 
+Received: 8 bytes
+Received sample of length: 8 type: 8
+Sample bytes: 00 00 00 01 68 CE 38 80 
+Sample Time: 780000
+Sending
+NALU Size: 4, 4000000, 4000000
+NALU Type: 8
+NALU Bytes: 68 CE 38 80 
+Received: 20430 bytes
+Received sample of length: 20430 type: 5
+Sample bytes: 00 00 00 01 65 88 80 00 22 64 
+Sample Time: 783000
+Sending
+NALU Size: 20426, ca4f0000, ca4f0000
+NALU Type: 5
+NALU Bytes: 65 88 80 00 22 64 1B FE C8 01 
+Received: 49113 bytes
+Received sample of length: 49113 type: 1
+Sample bytes: 00 00 00 01 41 9A 10 7F 1B 07 
+Sample Time: 786000
+Sending
+NALU Size: 49109, d5bf0000, d5bf0000
+NALU Type: 1
+NALU Bytes: 41 9A 10 7F 1B 07 77 E4 3F EF 
+Received: 44753 bytes
+Received sample of length: 44753 type: 1
+Sample bytes: 00 00 00 01 41 9A 20 5F 19 68 
+Sample Time: 789000
+Sending
+NALU Size: 44749, cdae0000, cdae0000
+NALU Type: 1
+NALU Bytes: 41 9A 20 5F 19 68 73 C5 A9 AB 
+Received: 39538 bytes
+Received sample of length: 39538 type: 1
+Sample bytes: 00 00 00 01 41 9A 30 5F 19 03 
+Sample Time: 792000
+Sending
+NALU Size: 39534, 6e9a0000, 6e9a0000
+NALU Type: 1
+NALU Bytes: 41 9A 30 5F 19 03 BD 78 66 A9 
+Received: 19807 bytes
+Received sample of length: 19807 type: 1
+Sample bytes: 00 00 00 01 41 9A 40 E9 5A 19 
+Sample Time: 795000
+Sending
+NALU Size: 19803, 5b4d0000, 5b4d0000
+NALU Type: 1
+NALU Bytes: 41 9A 40 E9 5A 19 09 FE 5F F6 
+Received: 26851 bytes
+Received sample of length: 26851 type: 1
+Sample bytes: 00 00 00 01 41 9A 50 5B 6C 91 
+Sample Time: 798000
+Sending
+NALU Size: 26847, df680000, df680000
+NALU Type: 1
+NALU Bytes: 41 9A 50 5B 6C 91 94 81 06 B7 
+Received: 23891 bytes
+Received sample of length: 23891 type: 1
+Sample bytes: 00 00 00 01 41 9A 60 5F 19 02 
+Sample Time: 801000
+Sending
+NALU Size: 23887, 4f5d0000, 4f5d0000
+NALU Type: 1
+NALU Bytes: 41 9A 60 5F 19 02 5F B4 BF 94 
+Received: 28542 bytes
+Received sample of length: 28542 type: 1
+Sample bytes: 00 00 00 01 41 9A 70 7A 56 C6 
+Sample Time: 804000
+Sending
+NALU Size: 28538, 7a6f0000, 7a6f0000
+NALU Type: 1
+NALU Bytes: 41 9A 70 7A 56 C6 40 81 B9 0E 
+Received: 25800 bytes
+Received sample of length: 25800 type: 1
+Sample bytes: 00 00 00 01 41 9A 80 7B D2 19 
+Sample Time: 807000
+Sending
+NALU Size: 25796, c4640000, c4640000
+NALU Type: 1
+NALU Bytes: 41 9A 80 7B D2 19 03 3D 53 5E 
+Received: 40838 bytes
+Received sample of length: 40838 type: 1
+Sample bytes: 00 00 00 01 41 9A 90 7F 19 38 
+Sample Time: 810000
+Sending
+NALU Size: 40834, 829f0000, 829f0000
+NALU Type: 1
+NALU Bytes: 41 9A 90 7F 19 38 C1 34 5B F4 
+Received: 25 bytes
+Received sample of length: 25 type: 7
+Sample bytes: 00 00 00 01 67 42 40 1F A6 80 
+Sample Time: 810000
+Sending
+NALU Size: 21, 15000000, 15000000
+NALU Type: 7
+NALU Bytes: 67 42 40 1F A6 80 50 05 BB 01 
+Received: 8 bytes
+Received sample of length: 8 type: 8
+Sample bytes: 00 00 00 01 68 CE 38 80 
+Sample Time: 810000
+Sending
+NALU Size: 4, 4000000, 4000000
+NALU Type: 8
+NALU Bytes: 68 CE 38 80 
+Received: 18683 bytes
+Received sample of length: 18683 type: 5
+Sample bytes: 00 00 00 01 65 88 80 00 22 66 
+Sample Time: 813000
+Sending
+NALU Size: 18679, f7480000, f7480000
+NALU Type: 5
+NALU Bytes: 65 88 80 00 22 66 1B FF 2E 3D 
+Received: 38637 bytes
+Received sample of length: 38637 type: 1
+Sample bytes: 00 00 00 01 41 9A 10 7A DA 1B 
+Sample Time: 816000
+Sending
+NALU Size: 38633, e9960000, e9960000
+NALU Type: 1
+NALU Bytes: 41 9A 10 7A DA 1B 00 48 DB D6 
+Received: 33259 bytes
+Received sample of length: 33259 type: 1
+Sample bytes: 00 00 00 01 41 9A 20 79 7D 82 
+Sample Time: 819000
+Sending
+NALU Size: 33255, e7810000, e7810000
+NALU Type: 1
+NALU Bytes: 41 9A 20 79 7D 82 F4 0B BC 64 
+Received: 28987 bytes
+Received sample of length: 28987 type: 1
+Sample bytes: 00 00 00 01 41 9A 30 7A DB 19 
+Sample Time: 822000
+Sending
+NALU Size: 28983, 37710000, 37710000
+NALU Type: 1
+NALU Bytes: 41 9A 30 7A DB 19 18 BC F6 17 
+Received: 26174 bytes
+Received sample of length: 26174 type: 1
+Sample bytes: 00 00 00 01 41 9A 40 7F 0A 43 
+Sample Time: 825000
+Sending
+NALU Size: 26170, 3a660000, 3a660000
+NALU Type: 1
+NALU Bytes: 41 9A 40 7F 0A 43 6A 4F AF 8C 
+Received: 25026 bytes
+Received sample of length: 25026 type: 1
+Sample bytes: 00 00 00 01 41 9A 50 7F 19 40 
+Sample Time: 828000
+Sending
+NALU Size: 25022, be610000, be610000
+NALU Type: 1
+NALU Bytes: 41 9A 50 7F 19 40 31 E3 B0 A5 
+Received: 25140 bytes
+Received sample of length: 25140 type: 1
+Sample bytes: 00 00 00 01 41 9A 60 7E C6 50 
+Sample Time: 831000
+Sending
+NALU Size: 25136, 30620000, 30620000
+NALU Type: 1
+NALU Bytes: 41 9A 60 7E C6 50 70 31 E7 4A 
+Received: 35078 bytes
+Received sample of length: 35078 type: 1
+Sample bytes: 00 00 00 01 41 9A 70 26 F4 86 
+Sample Time: 834000
+Sending
+NALU Size: 35074, 2890000, 2890000
+NALU Type: 1
+NALU Bytes: 41 9A 70 26 F4 86 47 45 0A 07 
+Received: 35322 bytes
+Received sample of length: 35322 type: 1
+Sample bytes: 00 00 00 01 41 9A 80 27 C6 47 
+Sample Time: 837000
+Sending
+NALU Size: 35318, f6890000, f6890000
+NALU Type: 1
+NALU Bytes: 41 9A 80 27 C6 47 8C C0 AB 54 
+Message from QZHGkSoPCF received: Pong 433645
+Received: 38768 bytes
+Received sample of length: 38768 type: 1
+Sample bytes: 00 00 00 01 41 9A 90 26 D2 29 
+Sample Time: 840000
+Sending
+NALU Size: 38764, 6c970000, 6c970000
+NALU Type: 1
+NALU Bytes: 41 9A 90 26 D2 29 46 41 AA 4C 
+Received: 25 bytes
+Received sample of length: 25 type: 7
+Sample bytes: 00 00 00 01 67 42 40 1F A6 80 
+Sample Time: 840000
+Sending
+NALU Size: 21, 15000000, 15000000
+NALU Type: 7
+NALU Bytes: 67 42 40 1F A6 80 50 05 BB 01 
+Received: 8 bytes
+Received sample of length: 8 type: 8
+Sample bytes: 00 00 00 01 68 CE 38 80 
+Sample Time: 840000
+Sending
+NALU Size: 4, 4000000, 4000000
+NALU Type: 8
+NALU Bytes: 68 CE 38 80 
+Received: 20902 bytes
+Received sample of length: 20902 type: 5
+Sample bytes: 00 00 00 01 65 88 80 00 22 68 
+Sample Time: 843000
+Sending
+NALU Size: 20898, a2510000, a2510000
+NALU Type: 5
+NALU Bytes: 65 88 80 00 22 68 13 B7 C2 1B 
+Received: 27064 bytes
+Received sample of length: 27064 type: 1
+Sample bytes: 00 00 00 01 41 9A 10 7F 1B 00 
+Sample Time: 846000
+Sending
+NALU Size: 27060, b4690000, b4690000
+NALU Type: 1
+NALU Bytes: 41 9A 10 7F 1B 00 C1 E1 26 EB 
+Received: 33474 bytes
+Received sample of length: 33474 type: 1
+Sample bytes: 00 00 00 01 41 9A 20 27 C6 50 
+Sample Time: 849000
+Sending
+NALU Size: 33470, be820000, be820000
+NALU Type: 1
+NALU Bytes: 41 9A 20 27 C6 50 31 D3 80 06 
+Received: 33035 bytes
+Received sample of length: 33035 type: 1
+Sample bytes: 00 00 00 01 41 9A 30 27 A1 90 
+Sample Time: 852000
+Sending
+NALU Size: 33031, 7810000, 7810000
+NALU Type: 1
+NALU Bytes: 41 9A 30 27 A1 90 0B F6 D0 8D 
+Received: 34544 bytes
+Received sample of length: 34544 type: 1
+Sample bytes: 00 00 00 01 41 9A 40 27 C6 40 
+Sample Time: 855000
+Sending
+NALU Size: 34540, ec860000, ec860000
+NALU Type: 1
+NALU Bytes: 41 9A 40 27 C6 40 63 58 42 57 
+Received: 36065 bytes
+Received sample of length: 36065 type: 1
+Sample bytes: 00 00 00 01 41 9A 50 26 E9 94 
+Sample Time: 858000
+Sending
+NALU Size: 36061, dd8c0000, dd8c0000
+NALU Type: 1
+NALU Bytes: 41 9A 50 26 E9 94 64 01 AE 2F 
+Received: 36026 bytes
+Received sample of length: 36026 type: 1
+Sample bytes: 00 00 00 01 41 9A 60 26 93 68 
+Sample Time: 861000
+Sending
+NALU Size: 36022, b68c0000, b68c0000
+NALU Type: 1
+NALU Bytes: 41 9A 60 26 93 68 64 61 32 03 
+Received: 36001 bytes
+Received sample of length: 36001 type: 1
+Sample bytes: 00 00 00 01 41 9A 70 27 C6 67 
+Sample Time: 864000
+Sending
+NALU Size: 35997, 9d8c0000, 9d8c0000
+NALU Type: 1
+NALU Bytes: 41 9A 70 27 C6 67 46 1B 93 A1 
+Received: 36512 bytes
+Received sample of length: 36512 type: 1
+Sample bytes: 00 00 00 01 41 9A 80 27 C6 43 
+Sample Time: 867000
+Sending
+NALU Size: 36508, 9c8e0000, 9c8e0000
+NALU Type: 1
+NALU Bytes: 41 9A 80 27 C6 43 6E 9D 84 A7 
+Received: 36720 bytes
+Received sample of length: 36720 type: 1
+Sample bytes: 00 00 00 01 41 9A 90 26 F4 86 
+Sample Time: 870000
+Sending
+NALU Size: 36716, 6c8f0000, 6c8f0000
+NALU Type: 1
+NALU Bytes: 41 9A 90 26 F4 86 47 11 54 9E 
+Received: 25 bytes
+Received sample of length: 25 type: 7
+Sample bytes: 00 00 00 01 67 42 40 1F A6 80 
+Sample Time: 870000
+Sending
+NALU Size: 21, 15000000, 15000000
+NALU Type: 7
+NALU Bytes: 67 42 40 1F A6 80 50 05 BB 01 
+Received: 8 bytes
+Received sample of length: 8 type: 8
+Sample bytes: 00 00 00 01 68 CE 38 80 
+Sample Time: 870000
+Sending
+NALU Size: 4, 4000000, 4000000
+NALU Type: 8
+NALU Bytes: 68 CE 38 80 
+Received: 24811 bytes
+Received sample of length: 24811 type: 5
+Sample bytes: 00 00 00 01 65 88 80 00 22 6A 
+Sample Time: 873000
+Sending
+NALU Size: 24807, e7600000, e7600000
+NALU Type: 5
+NALU Bytes: 65 88 80 00 22 6A 2E 0D E1 C4 
+Received: 25309 bytes
+Received sample of length: 25309 type: 1
+Sample bytes: 00 00 00 01 41 9A 10 7F 0A 47 
+Sample Time: 876000
+Sending
+NALU Size: 25305, d9620000, d9620000
+NALU Type: 1
+NALU Bytes: 41 9A 10 7F 0A 47 AB 56 72 02 
+Received: 33658 bytes
+Received sample of length: 33658 type: 1
+Sample bytes: 00 00 00 01 41 9A 20 26 F7 0A 
+Sample Time: 879000
+Sending
+NALU Size: 33654, 76830000, 76830000
+NALU Type: 1
+NALU Bytes: 41 9A 20 26 F7 0A 46 4E 84 4F 
+Received: 32626 bytes
+Received sample of length: 32626 type: 1
+Sample bytes: 00 00 00 01 41 9A 30 27 C6 47 
+Sample Time: 882000
+Sending
+NALU Size: 32622, 6e7f0000, 6e7f0000
+NALU Type: 1
+NALU Bytes: 41 9A 30 27 C6 47 4D B0 C0 D7 
+Received: 34066 bytes
+Received sample of length: 34066 type: 1
+Sample bytes: 00 00 00 01 41 9A 40 26 ED 90 
+Sample Time: 885000
+Sending
+NALU Size: 34062, e850000, e850000
+NALU Type: 1
+NALU Bytes: 41 9A 40 26 ED 90 64 72 02 67 
+Received: 35200 bytes
+Received sample of length: 35200 type: 1
+Sample bytes: 00 00 00 01 41 9A 50 27 C6 4E 
+Sample Time: 888000
+Sending
+NALU Size: 35196, 7c890000, 7c890000
+NALU Type: 1
+NALU Bytes: 41 9A 50 27 C6 4E 81 79 35 A1 
+Received: 35160 bytes
+Received sample of length: 35160 type: 1
+Sample bytes: 00 00 00 01 41 9A 60 27 A1 91 
+Sample Time: 891000
+Sending
+NALU Size: 35156, 54890000, 54890000
+NALU Type: 1
+NALU Bytes: 41 9A 60 27 A1 91 CB 08 1A E1 
+Received: 36278 bytes
+Received sample of length: 36278 type: 1
+Sample bytes: 00 00 00 01 41 9A 70 27 C6 41 
+Sample Time: 894000
+Sending
+NALU Size: 36274, b28d0000, b28d0000
+NALU Type: 1
+NALU Bytes: 41 9A 70 27 C6 41 6F FF 03 C4 
+Received: 36453 bytes
+Received sample of length: 36453 type: 1
+Sample bytes: 00 00 00 01 41 9A 80 26 AE 41 
+Sample Time: 897000
+Sending
+NALU Size: 36449, 618e0000, 618e0000
+NALU Type: 1
+NALU Bytes: 41 9A 80 26 AE 41 91 F3 82 F0 
+Received: 36611 bytes
+Received sample of length: 36611 type: 1
+Sample bytes: 00 00 00 01 41 9A 90 26 AA 51 
+Sample Time: 900000
+Sending
+NALU Size: 36607, ff8e0000, ff8e0000
+NALU Type: 1
+NALU Bytes: 41 9A 90 26 AA 51 90 DA B9 69 
+Received: 25 bytes
+Received sample of length: 25 type: 7
+Sample bytes: 00 00 00 01 67 42 40 1F A6 80 
+Sample Time: 900000
+Sending
+NALU Size: 21, 15000000, 15000000
+NALU Type: 7
+NALU Bytes: 67 42 40 1F A6 80 50 05 BB 01 
+Received: 8 bytes
+Received sample of length: 8 type: 8
+Sample bytes: 00 00 00 01 68 CE 38 80 
+Sample Time: 900000
+Sending
+NALU Size: 4, 4000000, 4000000
+NALU Type: 8
+NALU Bytes: 68 CE 38 80 
+Received: 24965 bytes
+Received sample of length: 24965 type: 5
+Sample bytes: 00 00 00 01 65 88 80 00 22 6C 
+Sample Time: 903000
+Sending
+NALU Size: 24961, 81610000, 81610000
+NALU Type: 5
+NALU Bytes: 65 88 80 00 22 6C 2E 05 E1 02 
+State: disconnected
+State: closed
+Received: 36515 bytes
+Received sample of length: 36515 type: 1
+Sample bytes: 00 00 00 01 41 9A 10 27 A1 91 
+Sample Time: 906000
+Received: 25205 bytes
+Received sample of length: 25205 type: 1
+Sample bytes: 00 00 00 01 41 9A 20 7F 19 1D 
+Sample Time: 909000
+Received: 47708 bytes
+Received sample of length: 47708 type: 1
+Sample bytes: 00 00 00 01 41 9A 30 27 C6 40 
+Sample Time: 912000
+Received: 25491 bytes
+Received sample of length: 25491 type: 1
+Sample bytes: 00 00 00 01 41 9A 40 7F 1B 04 
+Sample Time: 915000
+Received: 45324 bytes
+Received sample of length: 45324 type: 1
+Sample bytes: 00 00 00 01 41 9A 50 26 EA 51 
+Sample Time: 918000
+Received: 30432 bytes
+Received sample of length: 30432 type: 1
+Sample bytes: 00 00 00 01 41 9A 60 7F 19 0F 
+Sample Time: 921000
+Received: 31223 bytes
+Received sample of length: 31223 type: 1
+Sample bytes: 00 00 00 01 41 9A 70 7F 19 22 
+Sample Time: 924000
+Received: 27941 bytes
+Received sample of length: 27941 type: 1
+Sample bytes: 00 00 00 01 41 9A 80 7A 74 C6 
+Sample Time: 927000
+Received: 30560 bytes
+Received sample of length: 30560 type: 1
+Sample bytes: 00 00 00 01 41 9A 90 7F 19 43 
+Sample Time: 930000
+Received: 25 bytes
+Received sample of length: 25 type: 7
+Sample bytes: 00 00 00 01 67 42 40 1F A6 80 
+Sample Time: 930000
+Received: 8 bytes
+Received sample of length: 8 type: 8
+Sample bytes: 00 00 00 01 68 CE 38 80 
+Sample Time: 930000
+Received: 23384 bytes
+Received sample of length: 23384 type: 5
+Sample bytes: 00 00 00 01 65 88 80 00 22 6E 
+Sample Time: 933000
+Received: 39399 bytes
+Received sample of length: 39399 type: 1
+Sample bytes: 00 00 00 01 41 9A 10 7F 1B 93 
+Sample Time: 936000
+Received: 29364 bytes
+Received sample of length: 29364 type: 1
+Sample bytes: 00 00 00 01 41 9A 20 7F 19 0D 
+Sample Time: 939000
+Received: 28734 bytes
+Received sample of length: 28734 type: 1
+Sample bytes: 00 00 00 01 41 9A 30 7F 19 45 
+Sample Time: 942000
+Received: 35361 bytes
+Received sample of length: 35361 type: 1
+Sample bytes: 00 00 00 01 41 9A 40 7B 52 A0 
+Sample Time: 945000
+Received: 29782 bytes
+Received sample of length: 29782 type: 1
+Sample bytes: 00 00 00 01 41 9A 50 7A 72 21 
+Sample Time: 948000
+Received: 32617 bytes
+Received sample of length: 32617 type: 1
+Sample bytes: 00 00 00 01 41 9A 60 7E 87 47 
+Sample Time: 951000
+Received: 43512 bytes
+Received sample of length: 43512 type: 1
+Sample bytes: 00 00 00 01 41 9A 70 7F 19 09 
+Sample Time: 954000
+Received: 43731 bytes
+Received sample of length: 43731 type: 1
+Sample bytes: 00 00 00 01 41 9A 80 7F 19 3C 
+Sample Time: 957000
+Received: 22193 bytes
+Received sample of length: 22193 type: 1
+Sample bytes: 00 00 00 01 41 9A 90 5F 19 1D 
+Sample Time: 960000
+Received: 25 bytes
+Received sample of length: 25 type: 7
+Sample bytes: 00 00 00 01 67 42 40 1F A6 80 
+Sample Time: 960000
+Received: 8 bytes
+Received sample of length: 8 type: 8
+Sample bytes: 00 00 00 01 68 CE 38 80 
+Sample Time: 960000
+Received: 19771 bytes
+Received sample of length: 19771 type: 5
+Sample bytes: 00 00 00 01 65 88 80 00 22 70 
+Sample Time: 963000
+Received: 43986 bytes
+Received sample of length: 43986 type: 1
+Sample bytes: 00 00 00 01 41 9A 10 7A 38 2E 
+Sample Time: 966000
+Received: 27698 bytes
+Received sample of length: 27698 type: 1
+Sample bytes: 00 00 00 01 41 9A 20 5D 21 96 
+Sample Time: 969000
+Received: 42315 bytes
+Received sample of length: 42315 type: 1
+Sample bytes: 00 00 00 01 41 9A 30 7A 02 10 
+Sample Time: 972000
+Received: 25747 bytes
+Received sample of length: 25747 type: 1
+Sample bytes: 00 00 00 01 41 9A 40 5D A1 90 
+Sample Time: 975000
+Received: 49162 bytes
+Received sample of length: 49162 type: 1
+Sample bytes: 00 00 00 01 41 9A 50 7A 0E 83 
+Sample Time: 978000
+Received: 28007 bytes
+Received sample of length: 28007 type: 1
+Sample bytes: 00 00 00 01 41 9A 60 5F 19 40 
+Sample Time: 981000
+Received: 48685 bytes
+Received sample of length: 48685 type: 1
+Sample bytes: 00 00 00 01 41 9A 70 5F 19 81 
+Sample Time: 984000
+Received: 63263 bytes
+Received sample of length: 63263 type: 1
+Sample bytes: 00 00 00 01 41 9A 80 5B 03 A0 
+Sample Time: 987000
+Received: 35835 bytes
+Received sample of length: 35835 type: 1
+Sample bytes: 00 00 00 01 41 9A 90 E9 D4 6C 
+Sample Time: 990000
+Received: 25 bytes
+Received sample of length: 25 type: 7
+Sample bytes: 00 00 00 01 67 42 40 1F A6 80 
+Sample Time: 990000
+Received: 8 bytes
+Received sample of length: 8 type: 8
+Sample bytes: 00 00 00 01 68 CE 38 80 
+Sample Time: 990000
+Received: 12942 bytes
+Received sample of length: 12942 type: 5
+Sample bytes: 00 00 00 01 65 88 80 00 22 72 
+Sample Time: 993000
+Received: 14504 bytes
+Received sample of length: 14504 type: 1
+Sample bytes: 00 00 00 01 41 9A 10 EE E4 1B 
+Sample Time: 996000
+Received: 26712 bytes
+Received sample of length: 26712 type: 1
+Sample bytes: 00 00 00 01 41 9A 20 7E C6 40 
+Sample Time: 999000
+Received: 28498 bytes
+Received sample of length: 28498 type: 1
+Sample bytes: 00 00 00 01 41 9A 30 7E 86 C1 
+Sample Time: 1002000
+Received: 27282 bytes
+Received sample of length: 27282 type: 1
+Sample bytes: 00 00 00 01 41 9A 40 7E 86 40 
+Sample Time: 1005000
+Received: 23082 bytes
+Received sample of length: 23082 type: 1
+Sample bytes: 00 00 00 01 41 9A 50 7A 56 C6 
+Sample Time: 1008000
+Received: 24840 bytes
+Received sample of length: 24840 type: 1
+Sample bytes: 00 00 00 01 41 9A 60 7B A6 C6 
+Sample Time: 1011000
+Received: 35359 bytes
+Received sample of length: 35359 type: 1
+Sample bytes: 00 00 00 01 41 9A 70 26 5F DF 
+Sample Time: 1014000
+Received: 32732 bytes
+Received sample of length: 32732 type: 1
+Sample bytes: 00 00 00 01 41 9A 80 26 5F B4 
+Sample Time: 1017000
+Received: 36602 bytes
+Received sample of length: 36602 type: 1
+Sample bytes: 00 00 00 01 41 9A 90 27 C6 41 
+Sample Time: 1020000
+Received: 25 bytes
+Received sample of length: 25 type: 7
+Sample bytes: 00 00 00 01 67 42 40 1F A6 80 
+Sample Time: 1020000
+Received: 8 bytes
+Received sample of length: 8 type: 8
+Sample bytes: 00 00 00 01 68 CE 38 80 
+Sample Time: 1020000
+Received: 23195 bytes
+Received sample of length: 23195 type: 5
+Sample bytes: 00 00 00 01 65 88 80 00 22 74 
+Sample Time: 1023000
+Received: 44485 bytes
+Received sample of length: 44485 type: 1
+Sample bytes: 00 00 00 01 41 9A 10 27 C6 C2 
+Sample Time: 1026000
+Received: 28315 bytes
+Received sample of length: 28315 type: 1
+Sample bytes: 00 00 00 01 41 9A 20 7F 19 22 
+Sample Time: 1029000
+Received: 33148 bytes
+Received sample of length: 33148 type: 1
+Sample bytes: 00 00 00 01 41 9A 30 7F 19 6D 
+Sample Time: 1032000
+Received: 32008 bytes
+Received sample of length: 32008 type: 1
+Sample bytes: 00 00 00 01 41 9A 40 7F 05 30 
+Sample Time: 1035000
+Received: 38618 bytes
+Received sample of length: 38618 type: 1
+Sample bytes: 00 00 00 01 41 9A 50 7B A7 19 
+Sample Time: 1038000
+Received: 36387 bytes
+Received sample of length: 36387 type: 1
+Sample bytes: 00 00 00 01 41 9A 60 7E C2 93 
+Sample Time: 1041000
+Received: 33379 bytes
+Received sample of length: 33379 type: 1
+Sample bytes: 00 00 00 01 41 9A 70 7E 86 46 
+Sample Time: 1044000
+Received: 33340 bytes
+Received sample of length: 33340 type: 1
+Sample bytes: 00 00 00 01 41 9A 80 7E 86 4F 
+Sample Time: 1047000
+Received: 33145 bytes
+Received sample of length: 33145 type: 1
+Sample bytes: 00 00 00 01 41 9A 90 7A 47 66 
+Sample Time: 1050000
+Received: 25 bytes
+Received sample of length: 25 type: 7
+Sample bytes: 00 00 00 01 67 42 40 1F A6 80 
+Sample Time: 1050000
+Received: 8 bytes
+Received sample of length: 8 type: 8
+Sample bytes: 00 00 00 01 68 CE 38 80 
+Sample Time: 1050000
+Received: 22002 bytes
+Received sample of length: 22002 type: 5
+Sample bytes: 00 00 00 01 65 88 80 00 22 76 
+Sample Time: 1053000
+Received: 28352 bytes
+Received sample of length: 28352 type: 1
+Sample bytes: 00 00 00 01 41 9A 10 7E C6 47 
+Sample Time: 1056000
