@@ -1,4 +1,5 @@
 build/
+build-xcode/
 node_modules/
 output/
 *.d

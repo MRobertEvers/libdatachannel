@@ -5,7 +5,19 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "(gdb) Launch",
+            "name": "(MacOSX) Launch Streamer",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/examples/streamer/streamer",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}/build/examples/streamer",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "lldb"
+        },
+        {
+            "name": "(Ubuntu) Launch Streamer",
             "type": "cppdbg",
             "request": "launch",
             "program": "${workspaceFolder}/build/examples/streamer/streamer",

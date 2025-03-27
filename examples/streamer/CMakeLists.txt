@@ -1,12 +1,11 @@
 cmake_minimum_required(VERSION 3.7)
+
 if(POLICY CMP0079)
 	cmake_policy(SET CMP0079 NEW)
 endif()
 
-set(CMAKE_BUILD_TYPE Debug)
-
 set(STREAMER_SOURCES
-	main.cpp
+	main.mm
 	dispatchqueue.cpp
 	dispatchqueue.hpp
 	h264fileparser.cpp
@@ -21,6 +20,7 @@ set(STREAMER_SOURCES
 	stream.hpp
 	ArgParser.cpp
 	ArgParser.hpp
+	webcam.mm
 )
 
 set(STREAMER_UWP_RESOURCES
@@ -39,6 +39,10 @@ else()
 	add_executable(streamer ${STREAMER_SOURCES})
 endif()
 
+project(streamer
+	LANGUAGES CXX C OBJC OBJCXX
+)
+
 set_target_properties(streamer PROPERTIES
 	CXX_STANDARD 17
 	OUTPUT_NAME streamer)
@@ -48,6 +52,14 @@ set_target_properties(streamer PROPERTIES
 
 find_package(Threads REQUIRED)
 target_link_libraries(streamer LibDataChannel::LibDataChannel Threads::Threads nlohmann_json::nlohmann_json)
+
+# find_package(AVFoundation REQUIRED)
+target_link_libraries(streamer
+	"-framework AVFoundation"
+	"-framework Foundation"
+	"-framework CoreMedia"
+	"-framework VideoToolbox"
+)
 
 if(MSVC)
 	add_custom_command(TARGET streamer POST_BUILD
