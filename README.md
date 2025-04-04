@@ -27,6 +27,8 @@ Stream #0:0: Video: h264 (Constrained Baseline), yuv420p(progressive), 1280x720,
 
 The SPS PPS and IDR Key Frame MUST come in one Fragment AND in that order.
 
+I'm unsure why this worked for the camera but the webcam only seems to work when I do the above. The camera did send the SPS, PPS, and IDR as separate datagrams.
+
 ## Modified Original Readme
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-blue.svg)](https://www.mozilla.org/en-US/MPL/2.0/)
