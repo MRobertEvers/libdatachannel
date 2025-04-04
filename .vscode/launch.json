@@ -8,10 +8,10 @@
             "name": "(MacOSX) Launch Streamer",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/build/examples/streamer/streamer",
+            "program": "${workspaceFolder}/build2/examples/streamer/streamer",
             "args": [],
             "stopAtEntry": false,
-            "cwd": "${workspaceFolder}/build/examples/streamer",
+            "cwd": "${workspaceFolder}/build2/examples/streamer",
             "environment": [],
             "externalConsole": false,
             "MIMode": "lldb"

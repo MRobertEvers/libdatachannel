@@ -101,9 +101,68 @@ void wsOnMessage(json message, Configuration config, shared_ptr<WebSocket> ws) {
 	}
 }
 
+bool sentSPS = false;
+bool sentPPS = false;
+static int start_time = -1;
+char const startcode[] = {0x00, 0x00, 0x00, 0x01};
+void on_frame(void *ctx, char *frame, int size, double sample_time) {
+	// Dump frame to .h264 file
+	// FILE *fp = fopen("out.h264", "ab");
+	// memcpy(frame, startcode, 4);
+	// fwrite(frame, 1, size, fp);
+	// fclose(fp);
+	// return;
+	vector<std::shared_ptr<rtc::Track>> tracks{};
+	// get all clients with Ready state
+	for (auto id_client : clients) {
+		auto id = id_client.first;
+		auto client = id_client.second;
+		auto optTrackData = client->video;
+		if (client->getState() == Client::State::Ready &&
+		    optTrackData.has_value()) {
+			std::shared_ptr<rtc::Track> trackData = optTrackData.value()->track;
+			tracks.push_back(trackData);
+		}
+	}
+
+	if (!tracks.empty()) {
+
+		auto fi = std::make_shared<rtc::FrameInfo>(sample_time);
+		fi->payloadType = 102;
+		if (start_time == -1) {
+			start_time = sample_time;
+		}
+		sample_time = sample_time - start_time;
+		fi->timestampSeconds = std::chrono::duration<double>(sample_time);
+
+		for (std::shared_ptr<rtc::Track> track : tracks) {
+			std::vector<std::byte> sample((std::byte *)frame,
+			                              (std::byte *)frame + size);
+			printf("Sending sample with size: %d at %u\n", size, fi->timestamp);
+
+			try {
+				// auto ts =
+				//     std::chrono::duration<double,
+				//     std::micro>(sample_time);
+				// send sample
+				// cout << "TS: " << sample_time << " TS: " << ts.count() <<
+				// endl;
+				// track->send(sample);
+				track->sendFrame(sample, sample_time);
+				// track->send(sample);
+			} catch (const std::exception &e) {
+				printf("Error\n");
+				// }
+			}
+		}
+	} else {
+		start_time = -1;
+	}
+}
+
 int main(int argc, char **argv) try {
 	// objcpp initialize new
-	[[CameraCapture alloc] init];
+	[[CameraCapture alloc] init:on_frame];
 	bool enableDebugLogs = false;
 	bool printHelp = false;
 	int c = 0;
@@ -320,23 +379,24 @@ shared_ptr<Client> createPeerConnection(const Configuration &config,
 	                         [id, wc = make_weak_ptr(client)]() {
 		                         MainThread.dispatch([wc]() {
 			                         if (auto c = wc.lock()) {
-				                         addToStream(c, true);
+				                         c->setState(Client::State::Ready);
+				                         //  addToStream(c, true);
 			                         }
 		                         });
 		                         cout << "Video from " << id << " opened"
 		                              << endl;
 	                         });
 
-	client->audio = addAudio(pc, 111, 2, "audio-stream", "stream1",
-	                         [id, wc = make_weak_ptr(client)]() {
-		                         MainThread.dispatch([wc]() {
-			                         if (auto c = wc.lock()) {
-				                         addToStream(c, false);
-			                         }
-		                         });
-		                         cout << "Audio from " << id << " opened"
-		                              << endl;
-	                         });
+	// client->audio = addAudio(pc, 111, 2, "audio-stream", "stream1",
+	//                          [id, wc = make_weak_ptr(client)]() {
+	// 	                         MainThread.dispatch([wc]() {
+	// 		                         if (auto c = wc.lock()) {
+	// 			                         addToStream(c, false);
+	// 		                         }
+	// 	                         });
+	// 	                         cout << "Audio from " << id << " opened"
+	// 	                              << endl;
+	//                          });
 
 	auto dc = pc->createDataChannel("ping-pong");
 	dc->onOpen([id, wdc = make_weak_ptr(dc)]() {
@@ -397,12 +457,14 @@ shared_ptr<Stream> createStream(const string h264Samples, const unsigned fps,
 
 				cout << "Sending " << streamType
 				     << " sample with size: " << to_string(sample.size())
-				     << " to " << client << endl;
+				     << " to " << client << " Sample Time: " << sampleTime
+				     << endl;
 				try {
 					// send sample
-					trackData->track->sendFrame(
-					    sample,
-					    std::chrono::duration<double, std::micro>(sampleTime));
+					auto ts =
+					    std::chrono::duration<double, std::micro>(sampleTime);
+					cout << "TS: " << ts.count() << endl;
+					trackData->track->sendFrame(sample, ts);
 				} catch (const std::exception &e) {
 					cerr << "Unable to send " << streamType
 					     << " packet: " << e.what() << endl;
@@ -466,24 +528,16 @@ void sendInitialNalus(shared_ptr<Stream> stream,
 /// @param client Client
 /// @param adding_video True if adding video
 void addToStream(shared_ptr<Client> client, bool isAddingVideo) {
-	if (client->getState() == Client::State::Waiting) {
-		client->setState(isAddingVideo ? Client::State::WaitingForAudio
-		                               : Client::State::WaitingForVideo);
-	} else if ((client->getState() == Client::State::WaitingForAudio &&
-	            !isAddingVideo) ||
-	           (client->getState() == Client::State::WaitingForVideo &&
-	            isAddingVideo)) {
 
-		// Audio and video tracks are collected now
-		assert(client->video.has_value() && client->audio.has_value());
-		auto video = client->video.value();
+	// Audio and video tracks are collected now
+	// assert(client->video.has_value() && client->audio.has_value());
+	auto video = client->video.value();
 
-		if (avStream.has_value()) {
-			sendInitialNalus(avStream.value(), video);
-		}
-
-		client->setState(Client::State::Ready);
+	if (avStream.has_value()) {
+		sendInitialNalus(avStream.value(), video);
 	}
+
+	client->setState(Client::State::Ready);
 	if (client->getState() == Client::State::Ready) {
 		startStream();
 	}

@@ -56,6 +56,7 @@ message_ptr RtpPacketizer::packetize(const binary &payload, bool mark) {
 	auto *rtp = (RtpHeader *)message->data();
 	rtp->setPayloadType(rtpConfig->payloadType);
 	rtp->setSeqNumber(rtpConfig->sequenceNumber++); // increase sequence number
+	// 2959712143
 	rtp->setTimestamp(rtpConfig->timestamp);
 	rtp->setSsrc(rtpConfig->ssrc);
 

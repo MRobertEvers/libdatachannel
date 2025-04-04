@@ -3,7 +3,29 @@
 ```
 # For xcode, open the build folder.
 cmake -G Xcode -B build-xcode .
+cmake -B build2 -DCMAKE_BUILD_TYPE=Debug
 ```
+
+```
+ffplay -framerate 25  -f h264 /Users/matthewevers/Documents/git_repos/torilibdatachannel/build2/examples/streamer/out.h264
+
+ffmpeg -framerate 25 -f h264 -i /Users/matthewevers/Documents/git_repos/torilibdatachannel/build2/examples/streamer/out.h264 -c copy output.mp4
+```
+
+## This worked
+
+Duration: N/A, bitrate: N/A
+Stream #0:0: Video: h264 (Constrained Baseline), yuv420p(progressive), 1280x720, 25 fps, 1200k tbr, 1200k tbn
+37713,yuv420p,I
+47915,yuv420p,P
+46446,yuv420p,P
+31814,yuv420p,P
+55221,yuv420p,P
+41245,yuv420p,P
+
+## This worked from webcam
+
+The SPS PPS and IDR Key Frame MUST come in one Fragment AND in that order.
 
 ## Modified Original Readme
 

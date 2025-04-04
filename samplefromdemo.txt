@@ -1,0 +1,640 @@
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1300000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1320000
+Sending video sample with size: 5936 to dZseJBjZsK Sample Time: 1333320
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1340000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1360000
+Sending video sample with size: 4322 to dZseJBjZsK Sample Time: 1366653
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1380000
+Sending video sample with size: 6672 to dZseJBjZsK Sample Time: 1399986
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1400000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1420000
+Sending video sample with size: 4852 to dZseJBjZsK Sample Time: 1433319
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1440000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1460000
+Sending video sample with size: 7428 to dZseJBjZsK Sample Time: 1466652
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1480000
+Sending video sample with size: 12113 to dZseJBjZsK Sample Time: 1499985
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1500000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1520000
+Sending video sample with size: 4904 to dZseJBjZsK Sample Time: 1533318
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1540000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1560000
+Sending video sample with size: 3980 to dZseJBjZsK Sample Time: 1566651
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1580000
+Sending video sample with size: 7212 to dZseJBjZsK Sample Time: 1599984
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1600000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1620000
+Sending video sample with size: 4883 to dZseJBjZsK Sample Time: 1633317
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1640000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1660000
+Sending video sample with size: 6603 to dZseJBjZsK Sample Time: 1666650
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1680000
+Sending video sample with size: 4675 to dZseJBjZsK Sample Time: 1699983
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1700000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1720000
+Sending video sample with size: 6254 to dZseJBjZsK Sample Time: 1733316
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1740000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1760000
+Sending video sample with size: 4176 to dZseJBjZsK Sample Time: 1766649
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1780000
+Sending video sample with size: 6849 to dZseJBjZsK Sample Time: 1799982
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1800000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1820000
+Sending video sample with size: 2912 to dZseJBjZsK Sample Time: 1833315
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1840000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1860000
+Sending video sample with size: 5037 to dZseJBjZsK Sample Time: 1866648
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1880000
+Sending video sample with size: 3136 to dZseJBjZsK Sample Time: 1899981
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1900000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1920000
+Sending video sample with size: 6077 to dZseJBjZsK Sample Time: 1933314
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1940000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1960000
+Sending video sample with size: 4066 to dZseJBjZsK Sample Time: 1966647
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 1980000
+Sending video sample with size: 21895 to dZseJBjZsK Sample Time: 1999980
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2000000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2020000
+Sending video sample with size: 5451 to dZseJBjZsK Sample Time: 2033313
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2040000
+Message from dZseJBjZsK received: Pong 1993010
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2060000
+Sending video sample with size: 8261 to dZseJBjZsK Sample Time: 2066646
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2080000
+Sending video sample with size: 6340 to dZseJBjZsK Sample Time: 2099979
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2100000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2120000
+Sending video sample with size: 7594 to dZseJBjZsK Sample Time: 2133312
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2140000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2160000
+Sending video sample with size: 5431 to dZseJBjZsK Sample Time: 2166645
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2180000
+Sending video sample with size: 7697 to dZseJBjZsK Sample Time: 2199978
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2200000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2220000
+Sending video sample with size: 4571 to dZseJBjZsK Sample Time: 2233311
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2240000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2260000
+Sending video sample with size: 7504 to dZseJBjZsK Sample Time: 2266644
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2280000
+Sending video sample with size: 4162 to dZseJBjZsK Sample Time: 2299977
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2300000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2320000
+Sending video sample with size: 6943 to dZseJBjZsK Sample Time: 2333310
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2340000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2360000
+Sending video sample with size: 3669 to dZseJBjZsK Sample Time: 2366643
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2380000
+Sending video sample with size: 6220 to dZseJBjZsK Sample Time: 2399976
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2400000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2420000
+Sending video sample with size: 4214 to dZseJBjZsK Sample Time: 2433309
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2440000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2460000
+Sending video sample with size: 6627 to dZseJBjZsK Sample Time: 2466642
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2480000
+Sending video sample with size: 11237 to dZseJBjZsK Sample Time: 2499975
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2500000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2520000
+Sending video sample with size: 4195 to dZseJBjZsK Sample Time: 2533308
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2540000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2560000
+Sending video sample with size: 3246 to dZseJBjZsK Sample Time: 2566641
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2580000
+Sending video sample with size: 6123 to dZseJBjZsK Sample Time: 2599974
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2600000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2620000
+Sending video sample with size: 3553 to dZseJBjZsK Sample Time: 2633307
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2640000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2660000
+Sending video sample with size: 6704 to dZseJBjZsK Sample Time: 2666640
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2680000
+Sending video sample with size: 3591 to dZseJBjZsK Sample Time: 2699973
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2700000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2720000
+Sending video sample with size: 6074 to dZseJBjZsK Sample Time: 2733306
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2740000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2760000
+Sending video sample with size: 3228 to dZseJBjZsK Sample Time: 2766639
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2780000
+Sending video sample with size: 6554 to dZseJBjZsK Sample Time: 2799972
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2800000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2820000
+Sending video sample with size: 3230 to dZseJBjZsK Sample Time: 2833305
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2840000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2860000
+Sending video sample with size: 5567 to dZseJBjZsK Sample Time: 2866638
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2880000
+Sending video sample with size: 3149 to dZseJBjZsK Sample Time: 2899971
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2900000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2920000
+Sending video sample with size: 6350 to dZseJBjZsK Sample Time: 2933304
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2940000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2960000
+Sending video sample with size: 4343 to dZseJBjZsK Sample Time: 2966637
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2980000
+Sending video sample with size: 23507 to dZseJBjZsK Sample Time: 2999970
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3000000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3020000
+Sending video sample with size: 5122 to dZseJBjZsK Sample Time: 3033303
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3040000
+Message from dZseJBjZsK received: Pong 1994024
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3060000
+Sending video sample with size: 8552 to dZseJBjZsK Sample Time: 3066636
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3080000
+Sending video sample with size: 5253 to dZseJBjZsK Sample Time: 3099969
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3100000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3120000
+Sending video sample with size: 8564 to dZseJBjZsK Sample Time: 3133302
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3140000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3160000
+Sending video sample with size: 4294 to dZseJBjZsK Sample Time: 3166635
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3180000
+Sending video sample with size: 7742 to dZseJBjZsK Sample Time: 3199968
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3200000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3220000
+Sending video sample with size: 3747 to dZseJBjZsK Sample Time: 3233301
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3240000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3260000
+Sending video sample with size: 6185 to dZseJBjZsK Sample Time: 3266634
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3280000
+Sending video sample with size: 3476 to dZseJBjZsK Sample Time: 3299967
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3300000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3320000
+Sending video sample with size: 6601 to dZseJBjZsK Sample Time: 3333300
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3340000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3360000
+Sending video sample with size: 3414 to dZseJBjZsK Sample Time: 3366633
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3380000
+Sending video sample with size: 6774 to dZseJBjZsK Sample Time: 3399966
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3400000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3420000
+Sending video sample with size: 4789 to dZseJBjZsK Sample Time: 3433299
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3440000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3460000
+Sending video sample with size: 6385 to dZseJBjZsK Sample Time: 3466632
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3480000
+Sending video sample with size: 12018 to dZseJBjZsK Sample Time: 3499965
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3500000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3520000
+Sending video sample with size: 4946 to dZseJBjZsK Sample Time: 3533298
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3540000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3560000
+Sending video sample with size: 3355 to dZseJBjZsK Sample Time: 3566631
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3580000
+Sending video sample with size: 6021 to dZseJBjZsK Sample Time: 3599964
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3600000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3620000
+Sending video sample with size: 3793 to dZseJBjZsK Sample Time: 3633297
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3640000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3660000
+Sending video sample with size: 6065 to dZseJBjZsK Sample Time: 3666630
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3680000
+Sending video sample with size: 3849 to dZseJBjZsK Sample Time: 3699963
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3700000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3720000
+Sending video sample with size: 7240 to dZseJBjZsK Sample Time: 3733296
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3740000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3760000
+Sending video sample with size: 3152 to dZseJBjZsK Sample Time: 3766629
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3780000
+Sending video sample with size: 5724 to dZseJBjZsK Sample Time: 3799962
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3800000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3820000
+Sending video sample with size: 3460 to dZseJBjZsK Sample Time: 3833295
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3840000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3860000
+Sending video sample with size: 6327 to dZseJBjZsK Sample Time: 3866628
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3880000
+Sending video sample with size: 3575 to dZseJBjZsK Sample Time: 3899961
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3900000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3920000
+Sending video sample with size: 5181 to dZseJBjZsK Sample Time: 3933294
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3940000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3960000
+Sending video sample with size: 4034 to dZseJBjZsK Sample Time: 3966627
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3980000
+Sending video sample with size: 22342 to dZseJBjZsK Sample Time: 3999960
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4000000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4020000
+Sending video sample with size: 4864 to dZseJBjZsK Sample Time: 4033293
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4040000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4060000
+Sending video sample with size: 8270 to dZseJBjZsK Sample Time: 4066626
+Message from dZseJBjZsK received: Pong 1995035
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4080000
+Sending video sample with size: 5340 to dZseJBjZsK Sample Time: 4099959
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4100000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4120000
+Sending video sample with size: 5903 to dZseJBjZsK Sample Time: 4133292
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4140000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4160000
+Sending video sample with size: 4310 to dZseJBjZsK Sample Time: 4166625
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4180000
+Sending video sample with size: 7235 to dZseJBjZsK Sample Time: 4199958
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4200000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4220000
+Sending video sample with size: 3369 to dZseJBjZsK Sample Time: 4233291
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4240000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4260000
+Sending video sample with size: 6474 to dZseJBjZsK Sample Time: 4266624
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4280000
+Sending video sample with size: 4490 to dZseJBjZsK Sample Time: 4299957
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4300000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4320000
+Sending video sample with size: 6141 to dZseJBjZsK Sample Time: 4333290
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4340000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4360000
+Sending video sample with size: 3384 to dZseJBjZsK Sample Time: 4366623
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4380000
+Sending video sample with size: 7193 to dZseJBjZsK Sample Time: 4399956
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4400000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4420000
+Sending video sample with size: 3589 to dZseJBjZsK Sample Time: 4433289
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4440000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4460000
+Sending video sample with size: 6445 to dZseJBjZsK Sample Time: 4466622
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4480000
+Sending video sample with size: 10471 to dZseJBjZsK Sample Time: 4499955
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4500000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4520000
+Sending video sample with size: 4538 to dZseJBjZsK Sample Time: 4533288
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4540000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4560000
+Sending video sample with size: 2959 to dZseJBjZsK Sample Time: 4566621
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4580000
+Sending video sample with size: 5475 to dZseJBjZsK Sample Time: 4599954
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4600000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4620000
+Sending video sample with size: 3714 to dZseJBjZsK Sample Time: 4633287
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4640000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4660000
+Sending video sample with size: 5576 to dZseJBjZsK Sample Time: 4666620
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4680000
+Sending video sample with size: 3537 to dZseJBjZsK Sample Time: 4699953
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4700000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4720000
+Sending video sample with size: 6765 to dZseJBjZsK Sample Time: 4733286
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4740000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4760000
+Sending video sample with size: 2805 to dZseJBjZsK Sample Time: 4766619
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4780000
+Sending video sample with size: 5478 to dZseJBjZsK Sample Time: 4799952
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4800000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4820000
+Sending video sample with size: 2693 to dZseJBjZsK Sample Time: 4833285
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4840000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4860000
+Sending video sample with size: 4948 to dZseJBjZsK Sample Time: 4866618
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4880000
+Sending video sample with size: 3294 to dZseJBjZsK Sample Time: 4899951
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4900000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4920000
+Sending video sample with size: 4901 to dZseJBjZsK Sample Time: 4933284
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4940000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4960000
+Sending video sample with size: 3469 to dZseJBjZsK Sample Time: 4966617
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 4980000
+Sending video sample with size: 21125 to dZseJBjZsK Sample Time: 4999950
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5000000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5020000
+Sending video sample with size: 5620 to dZseJBjZsK Sample Time: 5033283
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5040000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5060000
+Sending video sample with size: 7756 to dZseJBjZsK Sample Time: 5066616
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5080000
+Message from dZseJBjZsK received: Pong 1996051
+Sending video sample with size: 5340 to dZseJBjZsK Sample Time: 5099949
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5100000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5120000
+Sending video sample with size: 7264 to dZseJBjZsK Sample Time: 5133282
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5140000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5160000
+Sending video sample with size: 4810 to dZseJBjZsK Sample Time: 5166615
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5180000
+Sending video sample with size: 6652 to dZseJBjZsK Sample Time: 5199948
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5200000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5220000
+Sending video sample with size: 3709 to dZseJBjZsK Sample Time: 5233281
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5240000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5260000
+Sending video sample with size: 7227 to dZseJBjZsK Sample Time: 5266614
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5280000
+Sending video sample with size: 3926 to dZseJBjZsK Sample Time: 5299947
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5300000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5320000
+Sending video sample with size: 7863 to dZseJBjZsK Sample Time: 5333280
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5340000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5360000
+Sending video sample with size: 4515 to dZseJBjZsK Sample Time: 5366613
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5380000
+Sending video sample with size: 7124 to dZseJBjZsK Sample Time: 5399946
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5400000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5420000
+Sending video sample with size: 4508 to dZseJBjZsK Sample Time: 5433279
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5440000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5460000
+Sending video sample with size: 6717 to dZseJBjZsK Sample Time: 5466612
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5480000
+Sending video sample with size: 12046 to dZseJBjZsK Sample Time: 5499945
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5500000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5520000
+Sending video sample with size: 4021 to dZseJBjZsK Sample Time: 5533278
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5540000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5560000
+Sending video sample with size: 3175 to dZseJBjZsK Sample Time: 5566611
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5580000
+Sending video sample with size: 6307 to dZseJBjZsK Sample Time: 5599944
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5600000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5620000
+Sending video sample with size: 3578 to dZseJBjZsK Sample Time: 5633277
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5640000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5660000
+Sending video sample with size: 6444 to dZseJBjZsK Sample Time: 5666610
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5680000
+Sending video sample with size: 3237 to dZseJBjZsK Sample Time: 5699943
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5700000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5720000
+Sending video sample with size: 6401 to dZseJBjZsK Sample Time: 5733276
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5740000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5760000
+Sending video sample with size: 3322 to dZseJBjZsK Sample Time: 5766609
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5780000
+Sending video sample with size: 6171 to dZseJBjZsK Sample Time: 5799942
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5800000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5820000
+Sending video sample with size: 3713 to dZseJBjZsK Sample Time: 5833275
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5840000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5860000
+Sending video sample with size: 5650 to dZseJBjZsK Sample Time: 5866608
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5880000
+Sending video sample with size: 3932 to dZseJBjZsK Sample Time: 5899941
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5900000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5920000
+Sending video sample with size: 5718 to dZseJBjZsK Sample Time: 5933274
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5940000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5960000
+Sending video sample with size: 3968 to dZseJBjZsK Sample Time: 5966607
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 5980000
+Sending video sample with size: 21735 to dZseJBjZsK Sample Time: 5999940
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6000000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6020000
+Sending video sample with size: 5638 to dZseJBjZsK Sample Time: 6033273
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6040000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6060000
+Sending video sample with size: 6971 to dZseJBjZsK Sample Time: 6066606
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6080000
+Message from dZseJBjZsK received: Pong 1997066
+Sending video sample with size: 5945 to dZseJBjZsK Sample Time: 6099939
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6100000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6120000
+Sending video sample with size: 7082 to dZseJBjZsK Sample Time: 6133272
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6140000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6160000
+Sending video sample with size: 4091 to dZseJBjZsK Sample Time: 6166605
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6180000
+Sending video sample with size: 6641 to dZseJBjZsK Sample Time: 6199938
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6200000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6220000
+Sending video sample with size: 3739 to dZseJBjZsK Sample Time: 6233271
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6240000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6260000
+Sending video sample with size: 5857 to dZseJBjZsK Sample Time: 6266604
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6280000
+Sending video sample with size: 4925 to dZseJBjZsK Sample Time: 6299937
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6300000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6320000
+Sending video sample with size: 6080 to dZseJBjZsK Sample Time: 6333270
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6340000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6360000
+Sending video sample with size: 3633 to dZseJBjZsK Sample Time: 6366603
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6380000
+Sending video sample with size: 6519 to dZseJBjZsK Sample Time: 6399936
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6400000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6420000
+Sending video sample with size: 3563 to dZseJBjZsK Sample Time: 6433269
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6440000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6460000
+Sending video sample with size: 6106 to dZseJBjZsK Sample Time: 6466602
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6480000
+Sending video sample with size: 10885 to dZseJBjZsK Sample Time: 6499935
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6500000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6520000
+Sending video sample with size: 3964 to dZseJBjZsK Sample Time: 6533268
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6540000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6560000
+Sending video sample with size: 3221 to dZseJBjZsK Sample Time: 6566601
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6580000
+Sending video sample with size: 5916 to dZseJBjZsK Sample Time: 6599934
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6600000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6620000
+Sending video sample with size: 3221 to dZseJBjZsK Sample Time: 6633267
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6640000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6660000
+Sending video sample with size: 6672 to dZseJBjZsK Sample Time: 6666600
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6680000
+Sending video sample with size: 3459 to dZseJBjZsK Sample Time: 6699933
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6700000
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 6720000
+State: disconnected
+State: closed
+Sending video sample with size: 3228 to dZseJBjZsK Sample Time: 2766639
+TS: 2.76664e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2780000
+TS: 2.78e+06
+Sending video sample with size: 6554 to dZseJBjZsK Sample Time: 2799972
+TS: 2.79997e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2800000
+TS: 2.8e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2820000
+TS: 2.82e+06
+Sending video sample with size: 3230 to dZseJBjZsK Sample Time: 2833305
+TS: 2.83330e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2840000
+TS: 2.84e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2860000
+TS: 2.86e+06
+Sending video sample with size: 5567 to dZseJBjZsK Sample Time: 2866638
+TS: 2.86664e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2880000
+TS: 2.88e+06
+Sending video sample with size: 3149 to dZseJBjZsK Sample Time: 2899971
+TS: 2.89997e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2900000
+TS: 2.9e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2920000
+TS: 2.92e+06
+Sending video sample with size: 6350 to dZseJBjZsK Sample Time: 2933304
+TS: 2.9333e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2940000
+TS: 2.94e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2960000
+TS: 2.96e+06
+Sending video sample with size: 4343 to dZseJBjZsK Sample Time: 2966637
+TS: 2.96664e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 2980000
+TS: 2.98e+06
+Sending video sample with size: 23507 to dZseJBjZsK Sample Time: 2999970
+TS: 2.99997e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3000000
+TS: 3e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3020000
+TS: 3.02e+06
+Sending video sample with size: 5122 to dZseJBjZsK Sample Time: 3033303
+TS: 3.0333e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3040000
+TS: 3.04e+06
+Message from dZseJBjZsK received: Pong 2077732
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3060000
+TS: 3.06e+06
+Sending video sample with size: 8552 to dZseJBjZsK Sample Time: 3066636
+TS: 3.06664e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3080000
+TS: 3.08e+06
+Sending video sample with size: 5253 to dZseJBjZsK Sample Time: 3099969
+TS: 3.09997e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3100000
+TS: 3.1e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3120000
+TS: 3.12e+06
+Sending video sample with size: 8564 to dZseJBjZsK Sample Time: 3133302
+TS: 3.1333e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3140000
+TS: 3.14e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3160000
+TS: 3.16e+06
+Sending video sample with size: 4294 to dZseJBjZsK Sample Time: 3166635
+TS: 3.16664e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3180000
+TS: 3.18e+06
+Sending video sample with size: 7742 to dZseJBjZsK Sample Time: 3199968
+TS: 3.19997e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3200000
+TS: 3.2e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3220000
+TS: 3.22e+06
+Sending video sample with size: 3747 to dZseJBjZsK Sample Time: 3233301
+TS: 3.2333e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3240000
+TS: 3.24e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3260000
+TS: 3.26e+06
+Sending video sample with size: 6185 to dZseJBjZsK Sample Time: 3266634
+TS: 3.26663e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3280000
+TS: 3.28e+06
+Sending video sample with size: 3476 to dZseJBjZsK Sample Time: 3299967
+TS: 3.29997e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3300000
+TS: 3.3e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3320000
+TS: 3.32e+06
+Sending video sample with size: 6601 to dZseJBjZsK Sample Time: 3333300
+TS: 3.3333e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3340000
+TS: 3.34e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3360000
+TS: 3.36e+06
+Sending video sample with size: 3414 to dZseJBjZsK Sample Time: 3366633
+TS: 3.36663e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3380000
+TS: 3.38e+06
+Sending video sample with size: 6774 to dZseJBjZsK Sample Time: 3399966
+TS: 3.39997e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3400000
+TS: 3.4e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3420000
+TS: 3.42e+06
+Sending video sample with size: 4789 to dZseJBjZsK Sample Time: 3433299
+TS: 3.4333e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3440000
+TS: 3.44e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3460000
+TS: 3.46e+06
+Sending video sample with size: 6385 to dZseJBjZsK Sample Time: 3466632
+TS: 3.46663e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3480000
+TS: 3.48e+06
+Sending video sample with size: 12018 to dZseJBjZsK Sample Time: 3499965
+TS: 3.49996e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3500000
+TS: 3.5e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3520000
+TS: 3.52e+06
+Sending video sample with size: 4946 to dZseJBjZsK Sample Time: 3533298
+TS: 3.5333e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3540000
+TS: 3.54e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3560000
+TS: 3.56e+06
+Sending video sample with size: 3355 to dZseJBjZsK Sample Time: 3566631
+TS: 3.56663e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3580000
+TS: 3.58e+06
+Sending video sample with size: 6021 to dZseJBjZsK Sample Time: 3599964
+TS: 3.59996e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3600000
+TS: 3.6e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3620000
+TS: 3.62e+06
+Sending video sample with size: 3793 to dZseJBjZsK Sample Time: 3633297
+TS: 3.6333e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3640000
+TS: 3.64e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3660000
+TS: 3.66e+06
+Sending video sample with size: 6065 to dZseJBjZsK Sample Time: 3666630
+TS: 3.66663e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3680000
+TS: 3.68e+06
+Sending video sample with size: 3849 to dZseJBjZsK Sample Time: 3699963
+TS: 3.69996e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3700000
+TS: 3.7e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3720000
+TS: 3.72e+06
+Sending video sample with size: 7240 to dZseJBjZsK Sample Time: 3733296
+TS: 3.7333e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3740000
+TS: 3.74e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3760000
+TS: 3.76e+06
+Sending video sample with size: 3152 to dZseJBjZsK Sample Time: 3766629
+TS: 3.76663e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3780000
+TS: 3.78e+06
+Sending video sample with size: 5724 to dZseJBjZsK Sample Time: 3799962
+TS: 3.79996e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3800000
+TS: 3.8e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3820000
+TS: 3.82e+06
+Sending video sample with size: 3460 to dZseJBjZsK Sample Time: 3833295
+TS: 3.8333e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3840000
+TS: 3.84e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3860000
+TS: 3.86e+06
+Sending video sample with size: 6327 to dZseJBjZsK Sample Time: 3866628
+TS: 3.86663e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3880000
+TS: 3.88e+06
+Sending video sample with size: 3575 to dZseJBjZsK Sample Time: 3899961
+TS: 3.89996e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3900000
+TS: 3.9e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3920000
+TS: 3.92e+06
+Sending video sample with size: 5181 to dZseJBjZsK Sample Time: 3933294
+TS: 3.93329e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3940000
+TS: 3.94e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3960000
+TS: 3.96e+06
+Sending video sample with size: 4034 to dZseJBjZsK Sample Time: 3966627
+TS: 3.96663e+06
+Sending audio sample with size: 160 to dZseJBjZsK Sample Time: 3980000
+TS: 3.98e+06
+State: disconnected
+State: closed

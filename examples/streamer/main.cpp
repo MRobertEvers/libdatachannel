@@ -432,8 +432,8 @@ shared_ptr<Client> createPeerConnection(const Configuration &config,
     client->video = addVideo(pc, 102, 1, "video-stream", "stream1", [id, wc = make_weak_ptr(client)]() {
         MainThread.dispatch([wc]() {
             if (auto c = wc.lock()) {
-                c->setState(Client::State::Ready);
-                // addToStream(c, true);
+                // c->setState(Client::State::Ready);
+                addToStream(c, true);
             }
         });
         cout << "Video from " << id << " opened" << endl;
@@ -572,10 +572,6 @@ void sendInitialNalus(shared_ptr<Stream> stream, shared_ptr<ClientTrackData> vid
 /// @param client Client
 /// @param adding_video True if adding video
 void addToStream(shared_ptr<Client> client, bool isAddingVideo) {
-    if (client->getState() == Client::State::Waiting) {
-        client->setState(isAddingVideo ? Client::State::WaitingForAudio : Client::State::WaitingForVideo);
-    } else if ((client->getState() == Client::State::WaitingForAudio && !isAddingVideo)
-               || (client->getState() == Client::State::WaitingForVideo && isAddingVideo)) {
 
         // Audio and video tracks are collected now
         assert(client->video.has_value() && client->audio.has_value());
@@ -586,7 +582,6 @@ void addToStream(shared_ptr<Client> client, bool isAddingVideo) {
         }
 
         client->setState(Client::State::Ready);
-    }
     if (client->getState() == Client::State::Ready) {
         startStream();
     }

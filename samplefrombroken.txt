@@ -1,0 +1,112 @@
+Frame data: 00 00 10 6E 21 E6 18 42 5F DA 
+2025-04-02 14:08:39.012 streamer[93489:48189934] Sample time: 8.900000 seconds (801000)
+Frame data: 00 00 10 4B 21 E7 1C 42 5F DA 
+2025-04-02 14:08:39.044 streamer[93489:48189934] Sample time: 8.933333 seconds (804000)
+Frame data: 00 00 10 BA 21 E8 20 42 5F D8 
+2025-04-02 14:08:39.077 streamer[93489:48189934] Sample time: 8.966667 seconds (807000)
+Frame data: 00 00 10 EC 21 E9 24 42 5F DB 
+2025-04-02 14:08:39.108 streamer[93489:48189934] Sample time: 9.000000 seconds (810000)
+avcC data length: 36
+01 64 00 28 FF E1 00 11 27 64 
+2025-04-02 14:08:39.108 streamer[93489:48189934] SPS: {length = 17, bytes = 0x27640028ac5680780227e59b8101015b04}
+00 00 00 11 27 64 00 28 AC 56 
+2025-04-02 14:08:39.108 streamer[93489:48189934] PPS: {length = 4, bytes = 0x28ee3cb0}
+00 00 00 04 28 EE 3C B0 
+Frame data: 00 00 59 36 25 B8 10 00 CF 18 
+2025-04-02 14:08:39.142 streamer[93489:48189934] Sample time: 9.033333 seconds (813000)
+Frame data: 00 00 0F CD 21 E1 04 42 5F DA 
+2025-04-02 14:08:39.176 streamer[93489:48189934] Sample time: 9.066667 seconds (816000)
+Frame data: 00 00 10 26 21 E2 08 42 5F DA 
+2025-04-02 14:08:39.208 streamer[93489:48189934] Sample time: 9.100000 seconds (819000)
+Frame data: 00 00 10 4D 21 E3 0C 42 5F DA 
+2025-04-02 14:08:39.240 streamer[93489:48189934] Sample time: 9.133333 seconds (822000)
+Frame data: 00 00 14 1C 21 E4 10 42 1F D5 
+2025-04-02 14:08:39.272 streamer[93489:48189934] Sample time: 9.166667 seconds (825000)
+Frame data: 00 00 0F B5 21 E5 14 42 5F DA 
+2025-04-02 14:08:39.308 streamer[93489:48189934] Sample time: 9.200000 seconds (827999)
+Frame data: 00 00 10 40 21 E6 18 42 5F DA 
+2025-04-02 14:08:39.344 streamer[93489:48189934] Sample time: 9.233333 seconds (830999)
+Frame data: 00 00 10 7C 21 E7 1C 42 5F DA 
+2025-04-02 14:08:39.376 streamer[93489:48189934] Sample time: 9.266667 seconds (834000)
+Frame data: 00 00 10 FF 21 E8 20 42 5F DA 
+2025-04-02 14:08:39.410 streamer[93489:48189934] Sample time: 9.300000 seconds (837000)
+Frame data: 00 00 11 19 21 E9 24 42 5F DA 
+2025-04-02 14:08:39.442 streamer[93489:48189934] Sample time: 9.333333 seconds (840000)
+avcC data length: 36
+01 64 00 28 FF E1 00 11 27 64 
+2025-04-02 14:08:39.442 streamer[93489:48189934] SPS: {length = 17, bytes = 0x27640028ac5680780227e59b8101015b04}
+00 00 00 11 27 64 00 28 AC 56 
+2025-04-02 14:08:39.442 streamer[93489:48189934] PPS: {length = 4, bytes = 0x28ee3cb0}
+00 00 00 04 28 EE 3C B0 
+Frame data: 00 00 58 C6 25 B8 20 03 3F FE 
+2025-04-02 14:08:39.475 streamer[93489:48189934] Sample time: 9.366667 seconds (843000)
+Frame data: 00 00 10 02 21 E1 04 42 5F DA 
+2025-04-02 14:08:39.506 streamer[93489:48189934] Sample time: 9.400000 seconds (846000)
+Frame data: 00 00 0F 2C 21 E2 08 42 5F DA 
+2025-04-02 14:08:39.540 streamer[93489:48189934] Sample time: 9.433333 seconds (849000)
+Frame data: 00 00 0F 10 21 E3 0C 42 5F DA 
+2025-04-02 14:08:39.573 streamer[93489:48189934] Sample time: 9.466667 seconds (852000)
+Frame data: 00 00 13 98 21 E4 10 42 1F D5 
+2025-04-02 14:08:39.607 streamer[93489:48189934] Sample time: 9.500000 seconds (855000)
+Frame data: 00 00 0F FA 21 E5 14 42 5F DA 
+2025-04-02 14:08:39.639 streamer[93489:48189934] Sample time: 9.533333 seconds (858000)
+Frame data: 00 00 10 DE 21 E6 18 42 5F DA 
+2025-04-02 14:08:39.673 streamer[93489:48189934] Sample time: 9.566667 seconds (861000)
+Frame data: 00 00 12 45 21 E7 1C 42 5F D8 
+2025-04-02 14:08:39.705 streamer[93489:48189934] Sample time: 9.600000 seconds (864000)
+Frame data: 00 00 13 5F 21 E8 20 42 5F DC 
+2025-04-02 14:08:39.738 streamer[93489:48189934] Sample time: 9.633333 seconds (867000)
+Frame data: 00 00 13 AB 21 E9 24 42 5F 79 
+2025-04-02 14:08:39.772 streamer[93489:48189934] Sample time: 9.666667 seconds (870000)
+avcC data length: 36
+01 64 00 28 FF E1 00 11 27 64 
+2025-04-02 14:08:39.772 streamer[93489:48189934] SPS: {length = 17, bytes = 0x27640028ac5680780227e59b8101015b04}
+00 00 00 11 27 64 00 28 AC 56 
+2025-04-02 14:08:39.773 streamer[93489:48189934] PPS: {length = 4, bytes = 0x28ee3cb0}
+00 00 00 04 28 EE 3C B0 
+Frame data: 00 00 57 13 25 B8 10 00 CF 37 
+2025-04-02 14:08:39.805 streamer[93489:48189934] Sample time: 9.700000 seconds (872999)
+Frame data: 00 00 13 74 21 E1 04 42 5F DA 
+2025-04-02 14:08:39.839 streamer[93489:48189934] Sample time: 9.733333 seconds (875999)
+Frame data: 00 00 0E EA 21 E2 08 42 9F DC 
+2025-04-02 14:08:39.878 streamer[93489:48189934] Sample time: 9.766667 seconds (879000)
+Frame data: 00 00 0F 24 21 E3 0C 42 9F DC 
+2025-04-02 14:08:39.910 streamer[93489:48189934] Sample time: 9.800000 seconds (882000)
+Frame data: 00 00 0F D6 21 E4 10 42 9F DC 
+2025-04-02 14:08:39.957 streamer[93489:48189934] Sample time: 9.833333 seconds (885000)
+Frame data: 00 00 13 BB 21 E5 14 42 5F 56 
+2025-04-02 14:08:39.992 streamer[93489:48189934] Sample time: 9.866667 seconds (888000)
+Frame data: 00 00 11 D2 21 E6 18 42 5F B2 
+2025-04-02 14:08:40.022 streamer[93489:48189934] Sample time: 9.900000 seconds (891000)
+Frame data: 00 00 11 08 21 E7 1C 42 5F E2 
+2025-04-02 14:08:40.057 streamer[93489:48189934] Sample time: 9.933333 seconds (894000)
+Frame data: 00 00 11 05 21 E8 20 42 5F DC 
+2025-04-02 14:08:40.088 streamer[93489:48189934] Sample time: 9.966667 seconds (897000)
+Frame data: 00 00 10 E1 21 E9 24 42 5F AB 
+2025-04-02 14:08:40.123 streamer[93489:48189934] Sample time: 10.000000 seconds (900000)
+avcC data length: 36
+01 64 00 28 FF E1 00 11 27 64 
+2025-04-02 14:08:40.123 streamer[93489:48189934] SPS: {length = 17, bytes = 0x27640028ac5680780227e59b8101015b04}
+00 00 00 11 27 64 00 28 AC 56 
+2025-04-02 14:08:40.123 streamer[93489:48189934] PPS: {length = 4, bytes = 0x28ee3cb0}
+00 00 00 04 28 EE 3C B0 
+Frame data: 00 00 57 E0 25 B8 20 03 3F 18 
+2025-04-02 14:08:40.151 streamer[93489:48189934] Sample time: 10.033333 seconds (903000)
+Frame data: 00 00 10 98 21 E1 04 42 5F DA 
+2025-04-02 14:08:40.187 streamer[93489:48189934] Sample time: 10.066667 seconds (906000)
+Frame data: 00 00 10 97 21 E2 08 42 5F AB 
+2025-04-02 14:08:40.217 streamer[93489:48189934] Sample time: 10.100000 seconds (909000)
+Frame data: 00 00 10 DB 21 E3 0C 42 5F DA 
+2025-04-02 14:08:40.249 streamer[93489:48189934] Sample time: 10.133333 seconds (912000)
+Frame data: 00 00 10 A1 21 E4 10 42 5F 56 
+2025-04-02 14:08:40.282 streamer[93489:48189934] Sample time: 10.166667 seconds (915000)
+Frame data: 00 00 10 82 21 E5 14 42 5F DA 
+2025-04-02 14:08:40.312 streamer[93489:48189934] Sample time: 10.200000 seconds (917999)
+Frame data: 00 00 13 82 21 E6 18 42 1F 86 
+2025-04-02 14:08:40.346 streamer[93489:48189934] Sample time: 10.233333 seconds (920999)
+Frame data: 00 00 0E ED 21 E7 1C 42 5F DA 
+2025-04-02 14:08:40.378 streamer[93489:48189934] Sample time: 10.266667 seconds (924000)
+Frame data: 00 00 12 AE 21 E8 20 42 1F D5 
+2025-04-02 14:08:40.412 streamer[93489:48189934] Sample time: 10.300000 seconds (927000)
+Frame data: 00 00 12 99 21 E9 24 42 1F CF 
+2025-04-02 14:08:40.443 streamer[93489:48189934] Sample time: 10.333333 seconds (930000)

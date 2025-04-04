@@ -58,6 +58,7 @@ target_link_libraries(streamer
 	"-framework AVFoundation"
 	"-framework Foundation"
 	"-framework CoreMedia"
+	"-framework CoreVideo"
 	"-framework VideoToolbox"
 )
 

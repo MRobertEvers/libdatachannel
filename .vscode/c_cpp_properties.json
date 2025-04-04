@@ -10,7 +10,8 @@
             ],
             "defines": [
                 "__APPLE__",
-                "__MACH__"
+                "__MACH__",
+                "RTC_ENABLE_MEDIA"
             ],
             "macFrameworkPath": [
                 "/System/Library/Frameworks",
