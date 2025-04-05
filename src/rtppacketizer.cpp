@@ -147,7 +147,10 @@ void RtpPacketizer::outgoing(message_vector &messages,
 
 			result.push_back(packetize(payloads[payloads.size() - 1], true));
 		} else if (payloads.size() == 1) {
-			
+			// For SPS and PPS, if those are sent as separate "sendFrame" calls,
+			// this lib was incorrectly setting the marker bit to true.
+			// This is a workaround that assumes only the SPS and PPS packets
+			// are not going to be packetized into multiple payloads.
 			result.push_back(packetize(payloads[0], false));
 		} 
 	}
