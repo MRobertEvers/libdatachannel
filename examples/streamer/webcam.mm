@@ -4,6 +4,8 @@
 
 #include <iostream>
 
+int frame = 0;
+
 // The default nal separate is LENGTH!
 void compressionOutputCallback(void *outputCallbackRefCon,
                                void *sourceFrameRefCon, OSStatus status,
@@ -71,6 +73,9 @@ void compressionOutputCallback(void *outputCallbackRefCon,
 		memcpy(spsDataWithSize + 4, spsData, spsSize);
 		spsSize += 4;
 
+		context.on_frame(NULL, spsDataWithSize, spsSize,
+		                 time - (((double)1.0f) / 30.0f));
+
 		// Extract PPS
 		CMVideoFormatDescriptionGetH264ParameterSetAtIndex(
 		    formatDesc, 1, &ppsData, &ppsSize, &ppsCount, NULL);
@@ -80,6 +85,8 @@ void compressionOutputCallback(void *outputCallbackRefCon,
 		memcpy(ppsDataWithSize, &len, 4);
 		memcpy(ppsDataWithSize + 4, ppsData, ppsSize);
 		ppsSize += 4;
+		context.on_frame(NULL, ppsDataWithSize, ppsSize,
+		                 time - (((double)1.0f) / 30.0f));
 
 		printf("SPS size: %zu, PPS size: %zu\n", spsSize, ppsSize);
 		printf("SPS count: %zu, PPS count: %zu\n", spsCount, ppsCount);
@@ -104,8 +111,9 @@ void compressionOutputCallback(void *outputCallbackRefCon,
 		}
 		printf("\n");
 
-		context.on_frame(NULL, frameWithPPSAndSPS,
-		                 totalLength + spsSize + ppsSize, time);
+		context.on_frame(NULL, dataPointer, totalLength, time);
+		// context.on_frame(NULL, frameWithPPSAndSPS,
+		//                  totalLength + spsSize + ppsSize, time);
 
 		free(spsDataWithSize);
 		free(ppsDataWithSize);
@@ -138,13 +146,13 @@ static int g_fps = 30;
            fromConnection:(AVCaptureConnection *)connection {
 	static int frameCount = 0;
 	CVImageBufferRef imageBuffer = CMSampleBufferGetImageBuffer(sampleBuffer);
-	CMTime presentationTimeStamp =
-	    CMSampleBufferGetPresentationTimeStamp(sampleBuffer);
+	// CMTime presentationTimeStamp =
+	//     CMSampleBufferGetPresentationTimeStamp(sampleBuffer);
 	// if (count++ == 0) {
 	// 	first_time = CMTimeGetSeconds(pts);
 	// }
 
-	// CMTime presentationTimeStamp = CMTimeMake(frameCount++, g_fps);
+	CMTime presentationTimeStamp = CMTimeMake(frameCount++, g_fps);
 
 	// Create a duration for the frame of 1/25
 	CMTime frameDuration = CMTimeMake(1, g_fps);
@@ -191,7 +199,7 @@ static int g_fps = 30;
 	VTSessionSetProperty(compressionSession,
 	                     kVTCompressionPropertyKey_H264EntropyMode,
 	                     kVTH264EntropyMode_CAVLC);
-	int keyframeInterval = 10;
+	int keyframeInterval = 1;
 	CFNumberRef maxKeyFrameInterval = CFNumberCreate(
 	    kCFAllocatorDefault, kCFNumberSInt32Type, &keyframeInterval);
 	VTSessionSetProperty(self->compressionSession,

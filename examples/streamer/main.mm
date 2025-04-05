@@ -101,9 +101,9 @@ void wsOnMessage(json message, Configuration config, shared_ptr<WebSocket> ws) {
 	}
 }
 
-bool sentSPS = false;
-bool sentPPS = false;
+static int frameno = 0;
 static int start_time = -1;
+static int started = 0;
 char const startcode[] = {0x00, 0x00, 0x00, 0x01};
 void on_frame(void *ctx, char *frame, int size, double sample_time) {
 	// Dump frame to .h264 file
@@ -126,14 +126,22 @@ void on_frame(void *ctx, char *frame, int size, double sample_time) {
 	}
 
 	if (!tracks.empty()) {
+		int type = frame[4] & 0x1F;
+		if (!started && type != 7)
+			return;
+		started = 1;
+		// if (type == 1 || type == 5)
+		frameno += 1;
+		// Sample time in 90KHz clock
+		int sample_time = frameno * 90000 / 30;
 
 		auto fi = std::make_shared<rtc::FrameInfo>(sample_time);
 		fi->payloadType = 102;
-		if (start_time == -1) {
-			start_time = sample_time;
-		}
-		sample_time = sample_time - start_time;
-		fi->timestampSeconds = std::chrono::duration<double>(sample_time);
+		// if (start_time == -1) {
+		// 	start_time = sample_time;
+		// }
+		// sample_time = sample_time - start_time;
+		// fi->timestampSeconds = std::chrono::duration<double>(sample_time);
 
 		for (std::shared_ptr<rtc::Track> track : tracks) {
 			std::vector<std::byte> sample((std::byte *)frame,
@@ -156,6 +164,7 @@ void on_frame(void *ctx, char *frame, int size, double sample_time) {
 			}
 		}
 	} else {
+		frameno = 0;
 		start_time = -1;
 	}
 }
