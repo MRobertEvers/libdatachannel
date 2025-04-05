@@ -141,12 +141,15 @@ void RtpPacketizer::outgoing(message_vector &messages,
 		}
 
 		auto payloads = fragment(std::move(*message));
-		if (payloads.size() > 0) {
+		if (payloads.size() > 1) {
 			for (size_t i = 0; i < payloads.size() - 1; i++)
 				result.push_back(packetize(payloads[i], false));
 
 			result.push_back(packetize(payloads[payloads.size() - 1], true));
-		}
+		} else if (payloads.size() == 1) {
+			
+			result.push_back(packetize(payloads[0], false));
+		} 
 	}
 
 	messages.swap(result);
