@@ -130,10 +130,11 @@ void on_frame(void *ctx, char *frame, int size, double sample_time) {
 		if (!started && type != 7)
 			return;
 		started = 1;
-		// if (type == 1 || type == 5)
-		frameno += 1;
+		if (type == 1 || type == 7)
+			frameno += 1;
 		// Sample time in 90KHz clock
-		int sample_time = frameno * 90000 / 30;
+		// int sample_time = frameno * 90000 / 30;
+		// sample_time = sample_time * 90000;
 
 		auto fi = std::make_shared<rtc::FrameInfo>(sample_time);
 		fi->payloadType = 102;
@@ -156,7 +157,8 @@ void on_frame(void *ctx, char *frame, int size, double sample_time) {
 				// cout << "TS: " << sample_time << " TS: " << ts.count() <<
 				// endl;
 				// track->send(sample);
-				track->sendFrame(sample, sample_time);
+				track->sendFrame(sample, *fi);
+				// track->sendFrame(sample, sample_time);
 				// track->send(sample);
 			} catch (const std::exception &e) {
 				printf("Error\n");

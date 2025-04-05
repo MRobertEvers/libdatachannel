@@ -73,8 +73,7 @@ void compressionOutputCallback(void *outputCallbackRefCon,
 		memcpy(spsDataWithSize + 4, spsData, spsSize);
 		spsSize += 4;
 
-		context.on_frame(NULL, spsDataWithSize, spsSize,
-		                 time - (((double)1.0f) / 30.0f));
+		context.on_frame(NULL, spsDataWithSize, spsSize, time);
 
 		// Extract PPS
 		CMVideoFormatDescriptionGetH264ParameterSetAtIndex(
@@ -85,8 +84,7 @@ void compressionOutputCallback(void *outputCallbackRefCon,
 		memcpy(ppsDataWithSize, &len, 4);
 		memcpy(ppsDataWithSize + 4, ppsData, ppsSize);
 		ppsSize += 4;
-		context.on_frame(NULL, ppsDataWithSize, ppsSize,
-		                 time - (((double)1.0f) / 30.0f));
+		context.on_frame(NULL, ppsDataWithSize, ppsSize, time);
 
 		printf("SPS size: %zu, PPS size: %zu\n", spsSize, ppsSize);
 		printf("SPS count: %zu, PPS count: %zu\n", spsCount, ppsCount);
