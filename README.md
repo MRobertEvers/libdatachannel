@@ -29,6 +29,9 @@ The SPS PPS and IDR Key Frame MUST come in one Fragment AND in that order.
 
 I'm unsure why this worked for the camera but the webcam only seems to work when I do the above. The camera did send the SPS, PPS, and IDR as separate datagrams.
 
+Update: There is is a bug in libdatachannel that always appends the "marker bit" for RTP
+on the last RTP packet of any data that you send with `send` or `sendFrame`. This means if you send the SPS and PPS, they will be incorrectly marked with the 'marker bit' which causes chrome to fail to decode.
+
 ## Modified Original Readme
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-blue.svg)](https://www.mozilla.org/en-US/MPL/2.0/)
